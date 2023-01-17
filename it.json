@@ -491,5 +491,8 @@
     "Éditeur de script %s": "Script Editor %s",
     "Éditeur de script dans Body": "Editor di script in Body",
     "Éditeur de script dans Head": "Editor di script in Head.",
-    "Étiquettes des pages spéciales": "Etichette di pagina speciali"
+    "Étiquettes des pages spéciales": "Etichette di pagina speciali",
+    "La page %s est ouverte par l'utilisateur %s": "",
+    "Vous n'êtes pas autorisé à consulter cette page (erreur 403)": "",
+    "La page demandée n'existe pas ou est introuvable (erreur 404)": ""
 }
