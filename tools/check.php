@@ -1,7 +1,7 @@
 <?php
 $langSource = 'fr_FR';
 $langTargetArray = ['en_EN', 'es', 'gr_GR', 'it', 'pt_PT'];
-$folderTarget = '../modules/blog/';
+$folderTarget = '../modules/form/';
 foreach ($langTargetArray as $key => $langTarget) {
 	if (file_exists($folderTarget . $langSource . '.json') &&
 		file_exists($folderTarget . $langTarget . '.json') )
