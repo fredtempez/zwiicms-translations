@@ -1,6 +1,6 @@
 <?php
 $langSource = 'fr_FR';
-$langTargetArray = ['en_EN', 'es', 'el_GR', 'it', 'pt_PT'];
+$langTargetArray = ['de', 'en_EN', 'es', 'el_GR', 'it', 'pt_PT'];
 $folderTargetArray = ['../',
 					 '../modules/blog/',
 					 '../modules/news/',

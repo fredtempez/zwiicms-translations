@@ -1,28 +1,32 @@
 {
     "languages": {
         "fr_FR": {
-            "version": 12204,
-            "date": 1675759709
+            "version": 12300,
+            "date": 1676294213
         },
         "es": {
-            "version": 12204,
-            "date": 1675759709
+            "version": 12300,
+            "date": 1676294213
         },
         "it": {
-            "version": 12204,
-            "date": 1675759709
+            "version": 12300,
+            "date": 1676294213
         },
         "pt_PT": {
-            "version": 12204,
-            "date": 1675759709
+            "version": 12300,
+            "date": 1676294213
         },
         "en_EN": {
-            "version": 12204,
-            "date": 1675759709
+            "version": 12300,
+            "date": 1676294213
         },
         "el_GR": {
-            "version": 12204,
-            "date": 1675759709
+            "version": 12300,
+            "date": 1676294213
+        },
+        "de": {
+            "version": 12300,
+            "date": 1676294213
         }
     }
 }
