@@ -2,14 +2,16 @@
 
 
 $langSource = 'fr_FR';
-$langTarget = 'it';
-$folderTargetArray = [//'../',
+$langTarget = 'de';
+$folderTargetArray = ['../',
+    /*
 					 '../modules/blog/',
 					 '../modules/news/',
 					 '../modules/form/',
 					 '../modules/gallery/',
 					 '../modules/redirection/',
 					 '../modules/search/',
+                     */
 					];
 foreach ($folderTargetArray as $keyFolder => $folderTarget) {
     if (file_exists($folderTarget . $langSource . '.json')) {
