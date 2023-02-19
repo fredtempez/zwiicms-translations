@@ -27,9 +27,8 @@
     "Effacer toutes les données": "Alle Daten löschen",
     "Envoyer": "Schicken",
     "Envoyer par mail les données saisies :": "Senden Sie die eingegebenen Daten per E -Mail:",
-    "Étiquette": "Etikett",
-    "Étiquette du bouton de soumission": "Schaltfläche Einsender",
     "Export CSV effectué dans %1 ": "CSV -Export in %1",
+    "Export des données": "Datenexport",
     "Exporter toutes les données": "Alle Daten exportieren",
     "Formulaire soumis": "Formular eingereicht",
     "Gabarit": "Vorlage",
@@ -62,5 +61,6 @@
     "Vide affiche le texte par défaut": "Das Vakuum zeigt den Standardtext an",
     "Voir et exporter les données du formulaire": "Sehen und exportieren Sie Formulardaten",
     "Éditeur": "Editor",
-    "Export des données": "Datenexport"
+    "Étiquette": "Etikett",
+    "Étiquette du bouton de soumission": "Schaltfläche Einsender"
 }

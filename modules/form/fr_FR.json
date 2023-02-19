@@ -27,9 +27,8 @@
     "Effacer toutes les données": "",
     "Envoyer": "",
     "Envoyer par mail les données saisies :": "",
-    "Étiquette": "",
-    "Étiquette du bouton de soumission": "",
     "Export CSV effectué dans %1 ": "",
+    "Export des données": "",
     "Exporter toutes les données": "",
     "Formulaire soumis": "",
     "Gabarit": "",
@@ -62,5 +61,6 @@
     "Vide affiche le texte par défaut": "",
     "Voir et exporter les données du formulaire": "",
     "Éditeur": "",
-    "Export des données": ""
+    "Étiquette": "",
+    "Étiquette du bouton de soumission": ""
 }

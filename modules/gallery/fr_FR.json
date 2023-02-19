@@ -19,6 +19,7 @@
     "Configuration des galeries": "",
     "Couleur de l'ombre": "",
     "Couleur de la bordure": "",
+    "Couverture": "",
     "Création d'une galerie": "",
     "Discrète": "",
     "Distribué avec marges": "",
@@ -32,11 +33,13 @@
     "Galerie effacée": "",
     "Grande": "",
     "Hauteur": "",
+    "Image": "",
     "Important": "",
     "Importante": "",
     "Largeur": "",
     "Le contenu de la page est toujours affiché dans la liste des galeries. Quand une seule galerie est disponible, il est possible de l'afficher directement, cette option est utile dans ce cas précis.": "",
     "Le curseur horizontal règle le niveau de transparence.": "",
+    "Légende": "",
     "Légendes": "",
     "Léger": "",
     "Légère": "",
@@ -69,8 +72,5 @@
     "Très épaisse": "",
     "Vignettes": "",
     "À droite": "",
-    "À gauche": "",
-    "Image": "",
-    "Couverture": "",
-    "Légende": ""
+    "À gauche": ""
 }

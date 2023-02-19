@@ -27,9 +27,8 @@
     "Effacer toutes les données": "Διαγραφή όλων των δεδομένων",
     "Envoyer": "Στείλετε",
     "Envoyer par mail les données saisies :": "Στείλτε τα καταχωρημένα δεδομένα μέσω email",
-    "Étiquette": "ετικέτα",
-    "Étiquette du bouton de soumission": "Ετικέτα κουμπιού υποβολής",
     "Export CSV effectué dans %1 ": "",
+    "Export des données": "ξαγωγή δεδομένων",
     "Exporter toutes les données": "Εξαγωγή όλων των δεδομένων",
     "Formulaire soumis": "",
     "Gabarit": "Πρότυπο",
@@ -62,5 +61,6 @@
     "Vide affiche le texte par défaut": "Το κενό εμφανίζει προεπιλεγμένο κείμενο",
     "Voir et exporter les données du formulaire": "Προβολή και εξαγωγή δεδομένων φόρμας",
     "Éditeur": "Επιμελητής",
-    "Export des données": "ξαγωγή δεδομένων"
+    "Étiquette": "ετικέτα",
+    "Étiquette du bouton de soumission": "Ετικέτα κουμπιού υποβολής"
 }

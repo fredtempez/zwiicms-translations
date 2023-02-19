@@ -24,9 +24,8 @@
     "Brouillon": "Σχέδιο",
     "Couleur de la bordure": "Χρώμα γραμμής",
     "Couleur du fond": "Χρώμα του φόντου",
-    "Fin de publication": "Τέλος της δημοσίευσης",
-    "Publication": "Ημερομηνία έκδοσης",
     "Etiquette RSS": "Ετικέτα RSS",
+    "Fin de dépublication": "",
     "Fine": "Πολύ λεπτή γραμμήλεπτή γραμμή",
     "Flux limité aux articles de la première page.": "Ροή περιορίζεται σε άρθρα στην πρώτη σελίδα.",
     "Informations générales": "Γενικές πληροφορίες",
@@ -39,12 +38,13 @@
     "Options de publication": "Επιλογές δημοσίευσης",
     "Permanent": "μόνιμος",
     "Petite": "μικρη",
+    "Publication": "Ημερομηνία έκδοσης",
     "Publier": "Δημοσιεύω",
+    "Publié": "δημοσιεύθηκε",
     "Rédiger un article": "",
     "Rédiger une news": "Γράψε μια είδηση",
     "Supprimer cet article ?": "Να διαγράψετε αυτό το άρθρο;",
     "Très fine": "Πολύ λεπτή γραμμή",
     "Très petite": "Πολύ μικρη",
-    "Épaisseur": "Πάχος",
-    "Publié": "δημοσιεύθηκε"
+    "Épaisseur": "Πάχος"
 }

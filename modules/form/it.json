@@ -27,9 +27,8 @@
     "Effacer toutes les données": "Cancella tutti i dati",
     "Envoyer": "mandare",
     "Envoyer par mail les données saisies :": "Invia i dati inseriti via e -mail:",
-    "Étiquette": "Etichetta",
-    "Étiquette du bouton de soumission": "Etichetta del pulsante di invio",
     "Export CSV effectué dans %1 ": "Esportazione CSV fatta in %1",
+    "Export des données": "sportazione dati",
     "Exporter toutes les données": "Esporta tutti i dati",
     "Formulaire soumis": "Modulo inviato",
     "Gabarit": "Modello",
@@ -62,5 +61,6 @@
     "Vide affiche le texte par défaut": "Il vuoto visualizza il testo predefinito",
     "Voir et exporter les données du formulaire": "Vedi ed esporta i dati del modulo",
     "Éditeur": "Editore",
-    "Export des données": "sportazione dati"
+    "Étiquette": "Etichetta",
+    "Étiquette du bouton de soumission": "Etichetta del pulsante di invio"
 }

@@ -19,6 +19,7 @@
     "Configuration des galeries": "Die Konfiguration der Galer",
     "Couleur de l'ombre": "Schattenfarbe",
     "Couleur de la bordure": "Randfarbe",
+    "Couverture": "Decke",
     "Création d'une galerie": "Schaffung einer Galerie",
     "Discrète": "Diskret",
     "Distribué avec marges": "Verteilt",
@@ -32,11 +33,13 @@
     "Galerie effacée": "Gelobte Galerie",
     "Grande": "Grande",
     "Hauteur": "Höhe",
+    "Image": "Bild",
     "Important": "Wichtig",
     "Importante": "Wichtig",
     "Largeur": "Breite",
     "Le contenu de la page est toujours affiché dans la liste des galeries. Quand une seule galerie est disponible, il est possible de l'afficher directement, cette option est utile dans ce cas précis.": "Der Inhalt der Seite wird immer in der Liste der Galerien angezeigt. Wenn nur eine Galerie verfügbar ist, ist es möglich, sie direkt anzuzeigen. Diese Option ist in diesem speziellen Fall nützlich.",
     "Le curseur horizontal règle le niveau de transparence.": "Der horizontale Cursor reguliert das Transparenzniveau.",
+    "Légende": "Legende",
     "Légendes": "Legenden",
     "Léger": "Licht",
     "Légère": "Licht",
@@ -69,8 +72,5 @@
     "Très épaisse": "Sehr dick",
     "Vignettes": "Vignetten",
     "À droite": "Nach rechts",
-    "À gauche": "Nach links",
-    "Image": "Bild",
-    "Couverture": "Decke",
-    "Légende": "Legende"
+    "À gauche": "Nach links"
 }

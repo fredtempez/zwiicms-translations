@@ -24,9 +24,8 @@
     "Brouillon": "Unorganisiert",
     "Couleur de la bordure": "Randfarbe",
     "Couleur du fond": "Bodenfarbe",
-    "Fin de dépublication": "Ende der Depublikation",
-    "Publication": "Veröffentlichung",
     "Etiquette RSS": "RSS -Label",
+    "Fin de dépublication": "Ende der Depublikation",
     "Fine": "Bußgeld",
     "Flux limité aux articles de la première page.": "Flow Limited auf Artikel auf der ersten Seite.",
     "Informations générales": "Allgemeine Informationen",
@@ -39,12 +38,13 @@
     "Options de publication": "Publikationsoptionen",
     "Permanent": "Dauerhaft",
     "Petite": "Zierlich",
+    "Publication": "Veröffentlichung",
     "Publier": "Veröffentlichen",
+    "Publié": "Veröffentlicht",
     "Rédiger un article": "Artikel",
     "Rédiger une news": "Schreiben Sie eine Nachricht",
     "Supprimer cet article ?": "Diesen Artikel löschen?",
     "Très fine": "Sehr gut",
     "Très petite": "Sehr klein",
-    "Épaisseur": "Dicke",
-    "Publié": "Veröffentlicht"
+    "Épaisseur": "Dicke"
 }

@@ -180,8 +180,6 @@
     "Fonte non créée, ressource absente !": "Fonte nicht erstellt, abwesende Ressource!",
     "Fonte supprimée": "Löschen Schmelzen",
     "Fontes": "Quellen",
-    "Format des dates": "Termine",
-    "Format des heures": "Stunden Format",
     "Format incorrect": "Format falsch",
     "Fréquence de recherche": "Forschungshäufigkeit",
     "Fuseau horaire": "Zeitzone",
@@ -305,6 +303,7 @@
     "Modules orphelins": "Verwaiste Module",
     "Mot de passe": "Passwort",
     "Mot de passe oublié": "Haben Sie Ihr Passwort vergessen",
+    "Mot de passe perdu": "Passwort vergessen",
     "Multilingue": "Mehrsprachig",
     "Méta-description": "Meta-Schreiben",
     "Méta-titre": "Stoffitis",
@@ -499,5 +498,6 @@
     "Éditeur de script %s": "Skripteditor %s",
     "Éditeur de script dans Body": "Skripteditor im Körper",
     "Éditeur de script dans Head": "Skripteditor im Kopf",
-    "Étiquettes des pages spéciales": "Spezielle Seiten Beschriftungen"
+    "Étiquettes des pages spéciales": "Spezielle Seiten Beschriftungen",
+    "Obligatoire": "Obligatorisch"
 }

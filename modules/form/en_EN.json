@@ -27,9 +27,8 @@
     "Effacer toutes les données": "Erase all the data",
     "Envoyer": "Send",
     "Envoyer par mail les données saisies :": "Send the data entered by email:",
-    "Étiquette": "Label",
-    "Étiquette du bouton de soumission": "Submission button label",
     "Export CSV effectué dans %1 ": "CSV export made in %1",
+    "Export des données": "Data export",
     "Exporter toutes les données": "Export all data",
     "Formulaire soumis": "Submitted form",
     "Gabarit": "Template",
@@ -62,5 +61,6 @@
     "Vide affiche le texte par défaut": "Vacuum displays the default text",
     "Voir et exporter les données du formulaire": "See and export form data",
     "Éditeur": "Editor",
-    "Export des données": "Data export"
+    "Étiquette": "Label",
+    "Étiquette du bouton de soumission": "Submission button label"
 }

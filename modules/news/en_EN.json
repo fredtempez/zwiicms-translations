@@ -24,9 +24,8 @@
     "Brouillon": "Draft copy",
     "Couleur de la bordure": "Border color",
     "Couleur du fond": "Bottom color",
-    "Fin de publication": "End of publication",
-    "Dublication": "Publication date",
     "Etiquette RSS": "RSS label",
+    "Fin de dépublication": "",
     "Fine": "Fine",
     "Flux limité aux articles de la première page.": "Flow limited to articles on the first page.",
     "Informations générales": "General informations",
@@ -39,12 +38,13 @@
     "Options de publication": "Publication options",
     "Permanent": "Permanent",
     "Petite": "Petite",
+    "Publication": "",
     "Publier": "Publish",
+    "Publié": "Published",
     "Rédiger un article": "Write an article",
     "Rédiger une news": "Write a news",
     "Supprimer cet article ?": "Delete this article?",
     "Très fine": "Very fine",
     "Très petite": "Very small",
-    "Épaisseur": "Thickness",
-    "Publié": "Published"
+    "Épaisseur": "Thickness"
 }
