@@ -135,13 +135,11 @@
     "Créez un compte gratuit, recopier la clé , puis valider le formulaire avant de cliquer sur le bouton de génération": "Creare un account gratuito, copiare la chiave, quindi convalidare il modulo prima di fare clic sul pulsante genera",
     "Dans quelle langue utiliserez-vous Zwii ?": "In quale lingua utilizzerete Zwii?",
     "Date": "Data",
-    "De": "Da",
     "Description": "Descrizione del sito",
     "Disposition": "Layout",
     "Données %s copiées vers %s": "Dati %s copiati in %s",
     "Données des modules": "Dati dei moduli",
     "Données importées": "Dati importati",
-    "Du": "Da",
     "Dupliquer la page": "Duplicare la pagina",
     "Déconnecte les sessions ouvertes précédemment sur d'autres navigateurs ou terminaux. Activation recommandée.": "Disconnette le sessioni precedentemente aperte su altri browser o terminali. Consigliata l'abilitazione",
     "Déconnecter": "Disconnessione",
@@ -473,7 +471,6 @@
     "Utilisateur supprimé": "Utente cancellato",
     "Utilisateurs": "Utenti",
     "Valider": "Convalidare",
-    "Vers": "A",
     "Version": "Versione",
     "Version n°": "Versione n°",
     "Vider dossier sauvegardes auto": "Svuota la cartella di backup automatico",
@@ -489,7 +486,6 @@
     "largeur de site :": "larghezza del sito:",
     "largeur du site": "Larghezza del sito",
     "sauvegardé avec succès": "backup riuscito",
-    "vers": "A",
     "vers ZwiiCMS": "a ZwiiCMS",
     "À l'emplacement du mot clé [MODULE] dans la page": "Nella posizione della parola chiave [MODULO] nella pagina",
     "Échecs": "Fallito",
@@ -502,5 +498,7 @@
     "Éditeur de script dans Body": "Editor di script in Body",
     "Éditeur de script dans Head": "Editor di script in Head.",
     "Étiquettes des pages spéciales": "Etichette di pagina speciali",
-    "Expéditeur": "Mittente"
+    "Expéditeur": "Mittente",
+    "Source": "fonte",
+    "Cible": "obiettivo"
 }

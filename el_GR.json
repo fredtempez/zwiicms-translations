@@ -135,13 +135,11 @@
     "Créez un compte gratuit, recopier la clé , puis valider le formulaire avant de cliquer sur le bouton de génération": "Δημιουργήστε έναν δωρεάν λογαριασμό, αντιγράψτε το κey και, στη συνέχεια, επικυρώστε τη φόρμα πριν κάνετε κλικ στο κουμπί generate",
     "Dans quelle langue utiliserez-vous Zwii ?": "Σε ποια γλώσσα θα χρησιμοποιείτε το Zwii;",
     "Date": "Ημερομηνία",
-    "De": "Από",
     "Description": "Περιγραφή της ιστοσελίδας",
     "Disposition": "Σχέδιο",
     "Données %s copiées vers %s": "Τα δεδομένα %s αντιγράφηκαν στο %s",
     "Données des modules": "Δεδομένα Πρόσθετα",
     "Données importées": "Εισαγόμενα δεδομένα",
-    "Du": "από",
     "Dupliquer la page": "Διπλασιάστε τη σελίδα",
     "Déconnecte les sessions ouvertes précédemment sur d'autres navigateurs ou terminaux. Activation recommandée.": "Αποσύνδεση περιόδων σύνδεσης που είχαν ανοίξει προηγουμένως σε άλλα προγράμματα περιήγησης ιστού ή τερματικά υπολογιστή. Συνιστάται ενεργοποιημένη.",
     "Déconnecter": "Αποσύνδεση",
@@ -473,7 +471,6 @@
     "Utilisateur supprimé": "Διαγραμμένος χρήστης",
     "Utilisateurs": "Οι χρήστες",
     "Valider": "Επικύρωση",
-    "Vers": "Προς το",
     "Version": "Έκδοση",
     "Version n°": "Έκδοση αριθ.",
     "Vider dossier sauvegardes auto": "Αδειάστε το φάκελο αυτόματο αντίγραφο ασφαλείας",
@@ -489,7 +486,6 @@
     "largeur de site :": "πλάτος ιστότοπου",
     "largeur du site": "πλάτος ιστότοπου",
     "sauvegardé avec succès": "αποθηκεύτηκε επιτυχώς",
-    "vers": "προς",
     "vers ZwiiCMS": "προς το ZwiiCMS",
     "À l'emplacement du mot clé [MODULE] dans la page": "Στη θέση της λέξης-κλειδί [MODULE] στη σελίδα",
     "Échecs": "Αποτυχίες",
@@ -502,5 +498,7 @@
     "Éditeur de script dans Body": "Επεξεργαστής script στο Body",
     "Éditeur de script dans Head": "Επεξεργαστής script στο Head",
     "Étiquettes des pages spéciales": "Ειδικές ετικέτες σελίδων",
-    "Expéditeur": "Αποστολέας"
+    "Expéditeur": "Αποστολέας",
+    "Source": "πηγή",
+    "Cible": "στόχος"
 }

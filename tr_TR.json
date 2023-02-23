@@ -4,7 +4,6 @@
     "Barres latérales": "",
     "Catalogue": "",
     "Configurer mon compte": "",
-    "Date": "",
     "Description": "",
     "Fréquence de recherche": "",
     "Gérer les fichiers": "",
@@ -145,7 +144,6 @@
     "Lien page des mentions légales.": "Yasal uyarı sayfası linki.",
     "Saisissez le texte du lien vers les mentions légales,la page doit être définie dans la configuration du site.": "Yasal uyarıların link metnini giriniz, site yapılandırmasında sayfa tanımlı olmalıdır.",
     "Pages et les modules de": "Sayfalar ve modüller",
-    "Vers": "Yönlendirme",
     "Supprimer le module": "Modülü kaldır",
     "Sauvegarder le module dans le gestionnaire de fichiers": "Modülü dosya yöneticisine kaydet",
     "Sauvegarder et télécharger le module": "Kaydet ve indir modülü",
@@ -247,7 +245,7 @@
     "Modules installés": "Kurulu modüller",
     "Données des modules": "Modül verileri",
     "Version n°": "Sürüm No",
-    "Du": "İtibaren",
+    "Date": "İtibaren",
     "Auteur :": "Yazar :",
     "Licence :": "Lisans :",
     "Installer ou mettre à jour un module téléchargé": "İndirilen bir modülü kurmak veya güncellemek",
@@ -340,8 +338,6 @@
     "Sélectionnez une langue": "Bir dili seçin",
     "Langues disponibles": "Mevcut diller",
     "Sélectionnez la langue à copier vers une langue cible": "Bir hedef dile kopyalanacak dili seçin",
-    "De": "Den",
-    "vers": "e, a",
     "Action interdite": "Yasaklanan eylem",
     "Modifications enregistrées": "Kaydedilen değişiklikler",
     "Éditeur de script %s": "Script dosyası düzenleyicisi %s",
@@ -502,5 +498,7 @@
     "Archive": "Arşiv",
     "Langue par défaut": "Varsayılan dil",
     "Langue du site sélectionnée": "Seçilen site dili",
-    "Expéditeur": "Gönderen"
+    "Expéditeur": "Gönderen",
+    "Source": "Kaynak",
+    "Cible": "Hedef"
 }

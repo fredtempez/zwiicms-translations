@@ -135,13 +135,11 @@
     "Créez un compte gratuit, recopier la clé , puis valider le formulaire avant de cliquer sur le bouton de génération": "Erstellen Sie ein kostenloses Konto, kopieren Sie den Schlüssel und validieren Sie das Formular, bevor Sie auf die Schaltfläche Generierung klicken",
     "Dans quelle langue utiliserez-vous Zwii ?": "In welcher Sprache werden Sie Zwii verwenden?",
     "Date": "Datum",
-    "De": "Von",
     "Description": "Beschreibung",
     "Disposition": "Anordnung",
     "Données %s copiées vers %s": "Daten %s auf %s kopiert",
     "Données des modules": "Module",
     "Données importées": "Importierte Daten",
-    "Du": "Von",
     "Dupliquer la page": "Duplizieren Sie die Seite",
     "Déconnecte les sessions ouvertes précédemment sur d'autres navigateurs ou terminaux. Activation recommandée.": "Trennen Sie die offenen Sitzungen zuvor von anderen Browsern oder Terminals. Empfohlene Aktivierung.",
     "Déconnecter": "Trennen",
@@ -473,7 +471,6 @@
     "Utilisateur supprimé": "Gelöschter Benutzer",
     "Utilisateurs": "Benutzer",
     "Valider": "Bestätigen",
-    "Vers": "In Richtung",
     "Version": "Ausführung",
     "Version n°": "Version N °",
     "Vider dossier sauvegardes auto": "Leere automatische Sicherungsdatei",
@@ -489,7 +486,6 @@
     "largeur de site :": "Standortbreite:",
     "largeur du site": "Standortbreite",
     "sauvegardé avec succès": "Erfolgreich gespeichert",
-    "vers": "in Richtung",
     "vers ZwiiCMS": "gegen Zwiicms",
     "À l'emplacement du mot clé [MODULE] dans la page": "Am Ort des Schlüsselworts [Modul] auf der Seite",
     "Échecs": "Schach",
@@ -502,5 +498,7 @@
     "Éditeur de script dans Body": "Skripteditor im Körper",
     "Éditeur de script dans Head": "Skripteditor im Kopf",
     "Étiquettes des pages spéciales": "Spezielle Seiten Beschriftungen",
-    "Expéditeur": "Absender"
+    "Expéditeur": "Absender",
+    "Source": "Quelle",
+    "Cible": "Ziel"
 }
