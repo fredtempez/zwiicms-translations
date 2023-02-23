@@ -95,7 +95,7 @@
     "Type de captcha": "Captcha türü",
     "Activer la journalisation": "Günlük kaydı etkinleştir",
     "Anonymat des adresses IP": "IP adresi anonimliği",
-    "Activer SMTP": "SMTP'yi Etkinleştir",
+    "SMTP personnalisé": "Özel SMTP",
     "Paramètres à utiliser lorsque votre hébergeur ne propose pas la fonctionnalité d'envoi de mail.": "Hosting posta gönderme işlevi sunmadığında kullanılacak ayarlar.",
     "Adresse SMTP": "SMTP adresi",
     "Port SMTP": "SMTP bağlantı noktası",
@@ -501,5 +501,6 @@
     "Archive ZIP": "ZIP arşivi",
     "Archive": "Arşiv",
     "Langue par défaut": "Varsayılan dil",
-    "Langue du site sélectionnée": "Seçilen site dili"
+    "Langue du site sélectionnée": "Seçilen site dili",
+    "Expéditeur": "Gönderen"
 }
