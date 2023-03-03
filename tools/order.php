@@ -1,5 +1,5 @@
 <?php
-$langTargetArray = ['fr_FR', 'de', 'en_EN', 'es', 'gr_GR', 'it', 'pt_PT'];
+$langTargetArray = ['fr_FR', 'de', 'en_EN', 'es', 'gr_GR', 'it', 'pt_PT', 'tr_TR'];
 $folderTargetArray = ['../',
 					 '../modules/blog/',
 					 '../modules/news/',
