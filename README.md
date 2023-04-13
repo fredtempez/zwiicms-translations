@@ -1,1 +1,0 @@
-# ZwiiCMS Translations files
