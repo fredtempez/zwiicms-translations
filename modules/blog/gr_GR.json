@@ -41,6 +41,7 @@
     "Le texte de l'article est adapté autour de l'image": "Το κείμενο του άρθρου τοποθετείται γύρω από την εικόνα",
     "Les utilisateurs des groupes supérieurs accèdent à l'article sans restriction": "Οι χρήστες σε ανώτερες ομάδες έχουν απεριόριστη πρόσβαση στο άρθρο",
     "Lien du flux RSS": "Σύνδεσμος τροφοδοσίας RSS",
+    "Lire la suite": "Διαβάστε περισσότερα",
     "Masquer l'image dans l'article": "Απόκρυψη εικόνας στο άρθρο",
     "Masquer l'image de couverture dans l'article": "Απόκρυψη της εικόνας εξωφύλλου στο άρθρο",
     "Membre": "Μέλος",
@@ -75,6 +76,5 @@
     "Éditer l'article": "Επεξεργασία άρθρου",
     "Éditer/ Approuver les commentaires": "Επεξεργασία / Έγκριση σχολίων",
     "Éditeur": "Συντάκτης",
-    "État": "κατάσταση",
-    "Lire la suite": "Διαβάστε περισσότερα"
+    "État": "κατάσταση"
 }

@@ -41,6 +41,7 @@
     "Le texte de l'article est adapté autour de l'image": "The text of the article is adapted around the image",
     "Les utilisateurs des groupes supérieurs accèdent à l'article sans restriction": "Users of higher groups access the article without restriction",
     "Lien du flux RSS": "Lien du Flux RSS",
+    "Lire la suite": "Read more",
     "Masquer l'image dans l'article": "Hide the image in the article",
     "Masquer l'image de couverture dans l'article": "Hide the cover image in the article",
     "Membre": "Member",
@@ -75,6 +76,5 @@
     "Éditer l'article": "Edit the article",
     "Éditer/ Approuver les commentaires": "Edit / approve comments",
     "Éditeur": "Editor",
-    "État": "Status",
-    "Lire la suite": "Read more"
+    "État": "Status"
 }

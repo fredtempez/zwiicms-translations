@@ -41,6 +41,7 @@
     "Le texte de l'article est adapté autour de l'image": "Makalenin metni resmin etrafıni çevreler",
     "Les utilisateurs des groupes supérieurs accèdent à l'article sans restriction": "Üst gruplardaki kullanıcılar makaleye kısıtlama olmadan erişebilir",
     "Lien du flux RSS": "RSS dağıtım bağlantısı",
+    "Lire la suite": "Devamını oku",
     "Masquer l'image dans l'article": "Makalede resmi gizle",
     "Masquer l'image de couverture dans l'article": "Makalede kapak resmini gizle",
     "Membre": "Üye",
@@ -75,6 +76,5 @@
     "Éditer l'article": "Makaleyi düzenle",
     "Éditer/ Approuver les commentaires": "",
     "Éditeur": "Düzenleyici",
-    "État": "Durum",
-    "Lire la suite": "Devamını oku"
+    "État": "Durum"
 }

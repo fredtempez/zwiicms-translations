@@ -41,6 +41,7 @@
     "Le texte de l'article est adapté autour de l'image": "El texto del artículo se envuelve alrededor de la imagen",
     "Les utilisateurs des groupes supérieurs accèdent à l'article sans restriction": "Los usuarios de grupos superiores pueden acceder al artículo sin restricción.",
     "Lien du flux RSS": "Enlace de fuente RSS",
+    "Lire la suite": "Leer más",
     "Masquer l'image dans l'article": "Ocultar imagen en la publicación",
     "Masquer l'image de couverture dans l'article": "Ocultar imagen de portada en el artículo",
     "Membre": "Miembro",
@@ -75,6 +76,5 @@
     "Éditer l'article": "Editar artículo",
     "Éditer/ Approuver les commentaires": "Editar / Aprobar comentarios",
     "Éditeur": "Editor",
-    "État": "Estado",
-    "Lire la suite": "Leer más"
+    "État": "Estado"
 }
