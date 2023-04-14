@@ -63,7 +63,7 @@
     "Arrière plan des champs": "Sfondo dei campi",
     "Arrondi des angles": "Arrotondamento degli angoli",
     "Au centre": "Al centro",
-    "Au dessus du site": "Sopra il sito",
+    "Au-dessus du site": "Sopra il sito",
     "Au début": "All'inizio",
     "Au milieu au centre": "Nel mezzo al centro",
     "Au milieu à droite": "Nel mezzo di destra",
@@ -608,5 +608,7 @@
     "Petite": "Piccolo",
     "Grande": "Grande",
     "Très grande": "Molto grande",
-    "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Le dimensioni dei caratteri del banner, del menu e del piè di pagina sono proporzionali a questa dimensione."
+    "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Le dimensioni dei caratteri del banner, del menu e del piè di pagina sono proporzionali a questa dimensione.",
+    "En dessous du site": "Sotto il sito",
+    "Sélectionnez une page pour activer": "Selezionare una pagina da attivare"
 }

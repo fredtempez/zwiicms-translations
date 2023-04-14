@@ -63,7 +63,7 @@
     "Arrière plan des champs": "Φόντο  των πεδίων",
     "Arrondi des angles": "Στρογγυλοποίηση γωνιών",
     "Au centre": "Στο κέντρο",
-    "Au dessus du site": "Πάνω από τον ιστότοπο",
+    "Au-dessus du site": "Πάνω από τον ιστότοπο",
     "Au début": "Στην αρχή",
     "Au milieu au centre": "Στη μέση στο κέντρο",
     "Au milieu à droite": "Στη μέση δεξιά",
@@ -609,5 +609,7 @@
     "Petite": "Μικρό",
     "Grande": "Μεγάλο",
     "Très grande": "Πολύ μεγάλο",
-    "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Οι μεγέθη γραμματοσειράς του banner, του μενού και του υποσέλιδου είναι ανάλογα με αυτό το μέγεθος."
+    "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Οι μεγέθη γραμματοσειράς του banner, του μενού και του υποσέλιδου είναι ανάλογα με αυτό το μέγεθος.",
+    "En dessous du site": "Κάτω από τον ιστότοπο",
+    "Sélectionnez une page pour activer": "Επιλέξτε μια σελίδα για ενεργοποίηση"
 }

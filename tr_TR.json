@@ -63,7 +63,7 @@
     "Arrière plan des champs": "Alanlar arka planı",
     "Arrondi des angles": "Açıların yuvarlanması",
     "Au centre": "Merkezinde",
-    "Au dessus du site": "Sitenin üstünde",
+    "Au-dessus du site": "Sitenin üstünde",
     "Au début": "Başta",
     "Au milieu au centre": "Merkezin ortasında",
     "Au milieu à droite": "Sağda",
@@ -608,6 +608,7 @@
     "Petite": "Küçük",
     "Grande": "Büyük",
     "Très grande": "Çok büyük",
-    "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Banner, menü ve altbilgi yazı tiplerinin boyutları bu boyuta orantılıdır."
-
+    "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Banner, menü ve altbilgi yazı tiplerinin boyutları bu boyuta orantılıdır.",
+    "En dessous du site": "Sitenin altında",
+    "Sélectionnez une page pour activer": "Etkinleştirmek için bir sayfa seçin"
 }
