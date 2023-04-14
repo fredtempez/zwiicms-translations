@@ -31,7 +31,7 @@
     "Adresse du proxy": "Indirizzo proxy",
     "Adresse électronique": "Indirizzo e-mail",
     "Affectation": "Assegnazione",
-    "Affichage dans le menu burger": "Visualizzazione nel menu burger",
+    "Menu burger dans écran réduit": "Menu burger in schermo ridotto",
     "Affiche le nom de la page parente suivi du nom de la page, le titre ne doit pas être masqué.": "Visualizza il nome della pagina madre seguito dal nome della pagina; il titolo non deve essere nascosto",
     "Afin d'assurer le bon fonctionnement de Zwii, veuillez ne pas fermer cette page avant la fin de l'opération.": "Per garantire il corretto funzionamento di Zwii, non chiudere questa pagina fino al completamento dell'operazione.",
     "Aide": "Aiuto",
@@ -279,7 +279,6 @@
     "La carte du site a été mise à jour": "La mappa del sito è stata aggiornata",
     "La clé de l'API ne peut pas être vide": "La chiave API non può essere vuota",
     "La description d'une page participe à son référencement, chaque page doit disposer d'une description différente.": "La descrizione di una pagina contribuisce alla sua referenziazione; ogni pagina deve avere una descrizione diversa.",
-    "La hauteur maximale est de 600 pixels, même si les dimensions de l'image sélectionnée sont supérieures. <br />Lorsque l'adaptation est positionnée sur Responsive, la hauteur diminue proportionnellement à la largeur.": "L'altezza massima è di 600 pixel, anche se le dimensioni dell'immagine selezionata sono più elevate. <br /> Quando l'adattamento è posizionato su reattivo, l'altezza diminuisce in proporzione alla larghezza.",
     "La page %s est ouverte par l'utilisateur %s": "La pagina %s è stata aperta dall'utente %s",
     "La page demandée n'existe pas ou est introuvable (erreur 404)": "La pagina richiesta non esiste o non può essere trovata (errore 404)",
     "La page est affichée dans un menu horizontal mais pas dans le menu vertical d'une barre latérale.": "La pagina viene visualizzata in un menu orizzontale ma non nel menu verticale di una barra laterale.",
@@ -309,7 +308,6 @@
     "Le titre court est affiché dans les menus. Il peut être identique au titre de la page.": "Il titolo breve viene visualizzato nei menu. Può essere identico al titolo della pagina",
     "Les langues sélectionnées sont identiques": "Le lingue selezionate sono identiche",
     "Les mentions légales sont obligatoires en France. Une option du pied de page ajoute un lien discret vers cette page.": "Le comunicazioni legali sono obbligatorie in Francia. Un'opzione a piè di pagina aggiunge un link discreto a questa pagina",
-    "Les modes responsives permettent de conserver des dimensions proportionnelles.<br />\n Cover pour une image plus grande que la bannière, Contain pour une image plus petite.\n                                    Les modes Auto et Etiré ne provoquent pas de modification de la hauteur de la bannière.": "Le modalità reattive consentono di mantenere dimensioni proporzionali. <br />\n Coprire per un'immagine più grande del banner, contenente un'immagine più piccola.\n                                    Le modalità automatiche e allungate non causano la modifica dell'altezza del banner.",
     "Les modifications que vous avez apportées ne seront peut-être pas enregistrées.": "Le modifiche apportate potrebbero non essere salvate",
     "Lettres": "Lettere",
     "Libre": "Libre",
@@ -609,5 +607,7 @@
     "Très petite": "Molto piccolo",
     "Petite": "Piccolo",
     "Grande": "Grande",
-    "Très grande": "Molto grande"
+    "Très grande": "Molto grande",
+    "Le menu burger remplace le menu complet lorsque la largeur de l'écran n'est pas suffisante.": "Il menu burger sostituisce il menu completo quando la larghezza dello schermo non è sufficiente."
+    
 }

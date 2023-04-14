@@ -31,7 +31,7 @@
     "Adresse du proxy": "Proxy address",
     "Adresse électronique": "email address",
     "Affectation": "Assignment",
-    "Affichage dans le menu burger": "Display in burger menu",
+    "Menu burger dans écran réduit": "Burger menu in reduced screen",
     "Affiche le nom de la page parente suivi du nom de la page, le titre ne doit pas être masqué.": "Displays the name of the parent page followed by the page name, the title should not be hidden.",
     "Afin d'assurer le bon fonctionnement de Zwii, veuillez ne pas fermer cette page avant la fin de l'opération.": "In order to ensure the proper functioning of Zwii, please do not close this page before the end of the operation.",
     "Aide": "Help",
@@ -279,7 +279,6 @@
     "La carte du site a été mise à jour": "The site card has been updated",
     "La clé de l'API ne peut pas être vide": "The key to the API cannot be empty",
     "La description d'une page participe à son référencement, chaque page doit disposer d'une description différente.": "The description of a page participates in its referencing, each page must have a different description.",
-    "La hauteur maximale est de 600 pixels, même si les dimensions de l'image sélectionnée sont supérieures. <br />Lorsque l'adaptation est positionnée sur Responsive, la hauteur diminue proportionnellement à la largeur.": "The maximum height is 600 pixels, even if the dimensions of the selected image are higher. <br /> When the adaptation is positioned on responsive, the height decreases in proportion to the width.",
     "La page %s est ouverte par l'utilisateur %s": "Page %s opened by user %s",
     "La page demandée n'existe pas ou est introuvable (erreur 404)": "This page does not exists (error 404)",
     "La page est affichée dans un menu horizontal mais pas dans le menu vertical d'une barre latérale.": "The page is displayed in a horizontal menu but not in the vertical menu of a sidebar.",
@@ -309,7 +308,6 @@
     "Le titre court est affiché dans les menus. Il peut être identique au titre de la page.": "The short title is displayed in the menus. It can be identical to the page title.",
     "Les langues sélectionnées sont identiques": "The selected languages ​​are identical",
     "Les mentions légales sont obligatoires en France. Une option du pied de page ajoute un lien discret vers cette page.": "Legal notices are compulsory in France. An option of the footer adds a discrete link to this page.",
-    "Les modes responsives permettent de conserver des dimensions proportionnelles.<br />\n Cover pour une image plus grande que la bannière, Contain pour une image plus petite.\n                                    Les modes Auto et Etiré ne provoquent pas de modification de la hauteur de la bannière.": "Responsive modes make it possible to keep proportional dimensions. <br />\n Cover for an image larger than the banner, containing a smaller image.\n                                    The auto and stretched modes do not cause modification of the height of the banner.",
     "Les modifications que vous avez apportées ne seront peut-être pas enregistrées.": "The changes you have made may not be recorded.",
     "Lettres": "Letters",
     "Libre": "Libre",
@@ -609,5 +607,7 @@
     "Très petite": "Very small",
     "Petite": "Small",
     "Grande": "Large",
-    "Très grande": "Very large"
+    "Très grande": "Very large",
+    "Le menu burger remplace le menu complet lorsque la largeur de l'écran n'est pas suffisante.": "The burger menu replaces the full menu when the screen width is not sufficient."
+    
 }

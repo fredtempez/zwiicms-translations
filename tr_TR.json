@@ -31,7 +31,7 @@
     "Adresse du proxy": "Proxy adresi",
     "Adresse électronique": "E-posta adresi",
     "Affectation": "Atama",
-    "Affichage dans le menu burger": "Menü burger'de görüntüleme",
+    "Menu burger dans écran réduit": "Daraltılmış ekranda burger menüsü",
     "Affiche le nom de la page parente suivi du nom de la page, le titre ne doit pas être masqué.": "Ana sayfanın adını ve ardından sayfanın adını görüntüleyin, başlık gizlenmemelidir.",
     "Afin d'assurer le bon fonctionnement de Zwii, veuillez ne pas fermer cette page avant la fin de l'opération.": "Zwii'nin düzgün çalışmasını sağlamak için lütfen işlem tamamlanmadan bu sayfayı kapatmayın.",
     "Aide": "Yardım",
@@ -279,7 +279,6 @@
     "La carte du site a été mise à jour": "Site haritası güncellendi",
     "La clé de l'API ne peut pas être vide": "API anahtarı boş olamaz",
     "La description d'une page participe à son référencement, chaque page doit disposer d'une description différente.": "Bir sayfanın tanımlaması, referanslamasına katılır, her sayfanın farklı bir açıklaması olmalıdır.",
-    "La hauteur maximale est de 600 pixels, même si les dimensions de l'image sélectionnée sont supérieures. <br />Lorsque l'adaptation est positionnée sur Responsive, la hauteur diminue proportionnellement à la largeur.": "Seçilen görüntünün boyutları daha yüksek olsa bile, maksimum yükseklik 600 pikseldir. <br /> Adaptasyon duyarlı olarak konumlandırıldığında, yükseklik genişliğe orantılı olarak azalır.",
     "La page %s est ouverte par l'utilisateur %s": "%s sayfası %s kullanıcısı tarafından açıldı",
     "La page demandée n'existe pas ou est introuvable (erreur 404)": "İstenen sayfa yok veya bulunamıyor (404 hatası)",
     "La page est affichée dans un menu horizontal mais pas dans le menu vertical d'une barre latérale.": "Sayfa yatay bir menüde görüntüleniyor ancak kenar çubuğunun dikey menüsünde görüntülenmiyor.",
@@ -309,7 +308,6 @@
     "Le titre court est affiché dans les menus. Il peut être identique au titre de la page.": "Kısa başlık menülerde görüntülenir. Sayfa başlığı ile aynı olabilir.",
     "Les langues sélectionnées sont identiques": "Seçilen diller aynıdır",
     "Les mentions légales sont obligatoires en France. Une option du pied de page ajoute un lien discret vers cette page.": "Fransa'da yasal uyarılar zorunludur. Altbilgideki bir seçenek bu sayfaya gizli bir bağlantı ekler.",
-    "Les modes responsives permettent de conserver des dimensions proportionnelles.<br />\n Cover pour une image plus grande que la bannière, Contain pour une image plus petite.\n                                    Les modes Auto et Etiré ne provoquent pas de modification de la hauteur de la bannière.": "Duyarlı modlar, orantılı boyutları korumayı mümkün kılar. <br />\n Daha küçük bir görüntü içeren afişten daha büyük bir görüntü için örtün.\n                                    Otomatik ve gerilmiş modlar, afişin yüksekliğinde modifikasyona neden olmaz.",
     "Les modifications que vous avez apportées ne seront peut-être pas enregistrées.": "Yaptığınız değişiklikler kaydedilemeyebilir.",
     "Lettres": "Harfler",
     "Libre": "Libre",
@@ -609,5 +607,7 @@
     "Très petite": "Çok küçük",
     "Petite": "Küçük",
     "Grande": "Büyük",
-    "Très grande": "Çok büyük"
+    "Très grande": "Çok büyük",
+    "Le menu burger remplace le menu complet lorsque la largeur de l'écran n'est pas suffisante.": "Ekran genişliği yeterli olmadığında burger menüsü tam menüyü değiştirir."
+    
 }

@@ -31,7 +31,7 @@
     "Adresse du proxy": "",
     "Adresse électronique": "",
     "Affectation": "",
-    "Affichage dans le menu burger": "",
+    "Menu burger dans écran réduit": "",
     "Affiche le nom de la page parente suivi du nom de la page, le titre ne doit pas être masqué.": "",
     "Afin d'assurer le bon fonctionnement de Zwii, veuillez ne pas fermer cette page avant la fin de l'opération.": "",
     "Aide": "",
@@ -279,7 +279,6 @@
     "La carte du site a été mise à jour": "",
     "La clé de l'API ne peut pas être vide": "",
     "La description d'une page participe à son référencement, chaque page doit disposer d'une description différente.": "",
-    "La hauteur maximale est de 600 pixels, même si les dimensions de l'image sélectionnée sont supérieures. <br />Lorsque l'adaptation est positionnée sur Responsive, la hauteur diminue proportionnellement à la largeur.": "",
     "La page %s est ouverte par l'utilisateur %s": "",
     "La page demandée n'existe pas ou est introuvable (erreur 404)": "",
     "La page est affichée dans un menu horizontal mais pas dans le menu vertical d'une barre latérale.": "",
@@ -309,7 +308,6 @@
     "Le titre court est affiché dans les menus. Il peut être identique au titre de la page.": "",
     "Les langues sélectionnées sont identiques": "",
     "Les mentions légales sont obligatoires en France. Une option du pied de page ajoute un lien discret vers cette page.": "",
-    "Les modes responsives permettent de conserver des dimensions proportionnelles.<br />\n Cover pour une image plus grande que la bannière, Contain pour une image plus petite.\n                                    Les modes Auto et Etiré ne provoquent pas de modification de la hauteur de la bannière.": "",
     "Les modifications que vous avez apportées ne seront peut-être pas enregistrées.": "",
     "Lettres": "",
     "Libre": "",
@@ -609,5 +607,6 @@
     "Très petite": "",
     "Petite": "",
     "Grande": "",
-    "Très grande": ""
+    "Très grande": "",
+    "Le menu burger remplace le menu complet lorsque la largeur de l'écran n'est pas suffisante.": ""
 }

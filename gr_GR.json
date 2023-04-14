@@ -31,7 +31,7 @@
     "Adresse du proxy": "Τύπος διακομιστή μεσολάβησης",
     "Adresse électronique": "Διεύθυνση e-mail",
     "Affectation": "Ανάθεση",
-    "Affichage dans le menu burger": "Εμφάνιση στο μενού μπέργκερ",
+    "Menu burger dans écran réduit": "Μενού burger σε μειωμένη οθόνη",
     "Affiche le nom de la page parente suivi du nom de la page, le titre ne doit pas être masqué.": "Εμφανίζει το όνομα της μητρικής σελίδας ακολουθούμενο από το όνομα της σελίδας, ο τίτλος δεν πρέπει να είναι κρυμμένος",
     "Afin d'assurer le bon fonctionnement de Zwii, veuillez ne pas fermer cette page avant la fin de l'opération.": "Για να διασφαλιστεί η σωστή λειτουργία του Zwii, παρακαλούμε να μην κλείσετε αυτή τη σελίδα μέχρι να ολοκληρωθεί η λειτουργία.",
     "Aide": "Βοήθεια",
@@ -279,7 +279,6 @@
     "La carte du site a été mise à jour": "Ο χάρτης του ιστότοπου έχει ενημερωθεί",
     "La clé de l'API ne peut pas être vide": "Το κey API δεν μπορεί να είναι άδειο",
     "La description d'une page participe à son référencement, chaque page doit disposer d'une description différente.": "Η περιγραφή μιας ιστοσελίδας συμβάλλει στην παραπομπή της, κάθε ιστοσελίδα πρέπει να έχει διαφορετική περιγραφή.",
-    "La hauteur maximale est de 600 pixels, même si les dimensions de l'image sélectionnée sont supérieures. <br />Lorsque l'adaptation est positionnée sur Responsive, la hauteur diminue proportionnellement à la largeur.": "Το μέγιστο ύψος είναι 600 εικονοστοιχεία, ακόμη και αν οι διαστάσεις της επιλεγμένης εικόνας είναι υψηλότερες. <br /> Όταν η προσαρμογή τοποθετείται στην απόκριση, το ύψος μειώνεται ανάλογα με το πλάτος.",
     "La page %s est ouverte par l'utilisateur %s": "Η σελίδα %s είναι ανοιχτή από τον χρήστη %s",
     "La page demandée n'existe pas ou est introuvable (erreur 404)": "Η ζητούμενη σελίδα δεν υπάρχει ή δεν μπορεί να βρεθεί (σφάλμα 404)",
     "La page est affichée dans un menu horizontal mais pas dans le menu vertical d'une barre latérale.": "Η σελίδα εμφανίζεται σε ένα οριζόντιο μενού αλλά όχι στο κάθετο μενού μιας πλευρικής μπάρας",
@@ -609,5 +608,7 @@
     "Très petite": "Πολύ μικρό",
     "Petite": "Μικρό",
     "Grande": "Μεγάλο",
-    "Très grande": "Πολύ μεγάλο"
+    "Très grande": "Πολύ μεγάλο",
+    "Le menu burger remplace le menu complet lorsque la largeur de l'écran n'est pas suffisante.": "Το μενού burger αντικαθιστά το πλήρες μενού όταν το πλάτος της οθόνης δεν είναι αρκετό."
+    
 }

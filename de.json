@@ -31,7 +31,7 @@
     "Adresse du proxy": "Proxy-Adresse",
     "Adresse électronique": "E-Mail-Addresse",
     "Affectation": "Affektiertheit",
-    "Affichage dans le menu burger": "Anzeige im Burger-Menü",
+    "Menu burger dans écran réduit": "Burger-Menü bei reduziertem Bildschirm",
     "Affiche le nom de la page parente suivi du nom de la page, le titre ne doit pas être masqué.": "Zeigt den Namen der Parente -Seite an, gefolgt vom Seitennamen, der Titel sollte nicht maskiert werden.",
     "Afin d'assurer le bon fonctionnement de Zwii, veuillez ne pas fermer cette page avant la fin de l'opération.": "Um das ordnungsgemäße Funktionieren von Zwii zu gewährleisten, schließen Sie diese Seite bitte nicht vor dem Ende der Operation.",
     "Aide": "Berater",
@@ -279,7 +279,6 @@
     "La carte du site a été mise à jour": "Die Site -Karte wurde aktualisiert",
     "La clé de l'API ne peut pas être vide": "Der Schlüssel zur API kann nicht leer sein",
     "La description d'une page participe à son référencement, chaque page doit disposer d'une description différente.": "Die Beschreibung einer Seite nimmt an ihrer Referenzierung teil. Jede Seite muss eine andere Beschreibung haben.",
-    "La hauteur maximale est de 600 pixels, même si les dimensions de l'image sélectionnée sont supérieures. <br />Lorsque l'adaptation est positionnée sur Responsive, la hauteur diminue proportionnellement à la largeur.": "Die maximale Höhe beträgt 600 Pixel, auch wenn die Abmessungen des ausgewählten Bildes höher sind. <br /> Wenn die Anpassung auf reaktionsschnell positioniert ist, nimmt die Höhe im Verhältnis zur Breite ab.",
     "La page %s est ouverte par l'utilisateur %s": "Der %s wird vom Benutzer %s geöffnet",
     "La page demandée n'existe pas ou est introuvable (erreur 404)": "Die angeforderte Seite existiert nicht oder wird nicht gefunden (Fehler 404)",
     "La page est affichée dans un menu horizontal mais pas dans le menu vertical d'une barre latérale.": "Die Seite wird in einem horizontalen Menü, jedoch nicht im vertikalen Menü einer Seitenleiste angezeigt.",
@@ -309,7 +308,6 @@
     "Le titre court est affiché dans les menus. Il peut être identique au titre de la page.": "Der kurze Titel wird in den Menüs angezeigt. Es kann mit dem Titel der Seite identisch sein.",
     "Les langues sélectionnées sont identiques": "Die ausgewählten Sprachen sind identisch",
     "Les mentions légales sont obligatoires en France. Une option du pied de page ajoute un lien discret vers cette page.": "Rechtliche Mitteilungen sind in Frankreich obligatorisch. Eine Option der Fußzeile fügt dieser Seite einen diskreten Link hinzu.",
-    "Les modes responsives permettent de conserver des dimensions proportionnelles.<br />\n Cover pour une image plus grande que la bannière, Contain pour une image plus petite.\n                                    Les modes Auto et Etiré ne provoquent pas de modification de la hauteur de la bannière.": "Responsive Modi ermöglichen es, proportionale Dimensionen zu halten. <br />\n Abdecken Sie ein Bild, das größer als das Banner ist und ein kleineres Bild enthält.\n                                    Die automatischen und gestreckten Modi verursachen keine Änderung der Höhe des Banners.",
     "Les modifications que vous avez apportées ne seront peut-être pas enregistrées.": "Die Änderungen, die Sie vorgenommen haben, werden möglicherweise nicht aufgezeichnet.",
     "Lettres": "Lettres",
     "Libre": "Libre",
@@ -609,5 +607,6 @@
     "Très petite": "Sehr klein",
     "Petite": "Klein",
     "Grande": "Groß",
-    "Très grande": "Sehr groß"
+    "Très grande": "Sehr groß",
+    "Le menu burger remplace le menu complet lorsque la largeur de l'écran n'est pas suffisante.": "Das Burger-Menü ersetzt das vollständige Menü, wenn die Bildschirmbreite nicht ausreichend ist."
 }
