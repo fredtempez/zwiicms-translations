@@ -607,6 +607,6 @@
     "Très petite": "Very small",
     "Petite": "Small",
     "Grande": "Large",
-    "Très grande": "Very large"
-
+    "Très grande": "Very large",
+    "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "The font sizes of the banner, menu and footer are proportional to this size."
 }
