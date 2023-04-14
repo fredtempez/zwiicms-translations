@@ -1,13 +1,10 @@
 {
-    "A droite": "To the right",
-    "A gauche": "To the left",
     "A l'ouverture de la galerie, la première image est affichée en plein écran.": "At the opening of the gallery, the first image is displayed in full screen.",
     "Afficher le contenu de la page avec la galerie": "Show the content of the page with the gallery",
     "Alignement": "Alignment",
     "Alignement du bouton de retour": "Return button alignment",
     "Alphabétique ": "Alphabetical",
     "Alphabétique inverse": "Reverse alphabetics",
-    "Au centre": "In the center",
     "Au-dessus": "Above",
     "Aucun": "None",
     "Aucune": "None",
@@ -67,6 +64,6 @@
     "Très petite": "Very small",
     "Très épaisse": "Very thick",
     "Vignettes": "Vignettes",
-    "À droite": "To the right",
-    "À gauche": "To the left"
+    "À droite": "Right",
+    "À gauche": "Left"
 }

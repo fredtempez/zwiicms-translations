@@ -37,7 +37,7 @@
     "Aide": "Βοήθεια",
     "Ajouter un utilisateur": "Προσθέστε έναν χρήστη",
     "Ajouter une fonte": "Προσθήκη γραμματοσειράς",
-    "Alignement du contenu": "Ευθυγράμμιση περιεχομένου",
+    "Alignement": "Ευθυγράμμιση περιεχομένου",
     "Aligner la bannière avec le contenu": "Ευθυγραμμίστε το πανό με τα περιεχόμενα",
     "Ancien mot de passe": "Παλαιός κωδικός πρόσβασης",
     "Anonymat des adresses IP": "Ανωνυμία διευθύνσεων IP",
@@ -583,5 +583,11 @@
     "Éditeur de script dans Body": "Επεξεργαστής script στο Body",
     "Éditeur de script dans Head": "Επεξεργαστής script στο Head",
     "Éléments": "Στοιχεία",
-    "Étiquettes des pages spéciales": "Ειδικές ετικέτες σελίδων"
+    "Étiquettes des pages spéciales": "Ειδικές ετικέτες σελίδων",
+    "Largeur de l'image": "Πλάτος εικόνας",
+    "Hauteur de l'image": "Ύψος εικόνας",
+    "Largeur du site": "Πλάτος ιστοσελίδας",
+    "Ratio": "Αναλογία",
+    "Hauteur de l'image sélectionnée": "Ύψος της επιλεγμένης εικόνας"
+
 }

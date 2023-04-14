@@ -37,7 +37,7 @@
     "Aide": "Yardım",
     "Ajouter un utilisateur": "Kullanıcı ekle",
     "Ajouter une fonte": "Yazı tipi ekle",
-    "Alignement du contenu": "İçeriğin hizalanması",
+    "Alignement": "İçeriğin hizalanması",
     "Aligner la bannière avec le contenu": "Banneyi içerikle hizalayın",
     "Ancien mot de passe": "Eski Şifre",
     "Anonymat des adresses IP": "IP adresi anonimliği",
@@ -583,5 +583,10 @@
     "Éditeur de script dans Body": "Body'de script dosyası düzenleyici",
     "Éditeur de script dans Head": "Head'de script dosyası düzenleyici",
     "Éléments": "Öğeler",
-    "Étiquettes des pages spéciales": "Özel sayfa etiketleri"
+    "Étiquettes des pages spéciales": "Özel sayfa etiketleri",
+    "Largeur de l'image": "Resim Genişliği",
+    "Hauteur de l'image": "Resim Yüksekliği",
+    "Largeur du site": "Site Genişliği",
+    "Ratio": "Oran",
+    "Hauteur de l'image sélectionnée": "Seçilen Resim Yüksekliği"
 }

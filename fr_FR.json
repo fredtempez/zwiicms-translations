@@ -37,7 +37,7 @@
     "Aide": "",
     "Ajouter un utilisateur": "",
     "Ajouter une fonte": "",
-    "Alignement du contenu": "",
+    "Alignement": "",
     "Aligner la bannière avec le contenu": "",
     "Ancien mot de passe": "",
     "Anonymat des adresses IP": "",
@@ -583,5 +583,10 @@
     "Éditeur de script dans Body": "",
     "Éditeur de script dans Head": "",
     "Éléments": "",
-    "Étiquettes des pages spéciales": ""
+    "Étiquettes des pages spéciales": "",
+    "Largeur de l'image": "",
+    "Hauteur de l'image": "",
+    "Largeur du site": "",
+    "Ratio": "",
+    "Hauteur de l'image sélectionnée": "Altura de la imagen seleccionada"
 }

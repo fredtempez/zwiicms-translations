@@ -37,7 +37,7 @@
     "Aide": "Berater",
     "Ajouter un utilisateur": "Fügen Sie einen Benutzer hinzu",
     "Ajouter une fonte": "Fügen Sie ein Gusseisen hinzu",
-    "Alignement du contenu": "Ausrichtung des Inhalts",
+    "Alignement": "Ausrichtung des Inhalts",
     "Aligner la bannière avec le contenu": "Richten Sie das Banner mit dem Inhalt aus",
     "Ancien mot de passe": "Altes Passwort",
     "Anonymat des adresses IP": "Anonymität von IP -Adressen",
@@ -583,5 +583,10 @@
     "Éditeur de script dans Body": "Skripteditor im Körper",
     "Éditeur de script dans Head": "Skripteditor im Kopf",
     "Éléments": "Elemente",
-    "Étiquettes des pages spéciales": "Spezielle Seiten Beschriftungen"
+    "Étiquettes des pages spéciales": "Spezielle Seiten Beschriftungen",
+    "Largeur de l'image": "Breite des Bildes",
+    "Hauteur de l'image": "Höhe des Bildes",
+    "Largeur du site": "Breite der Website",
+    "Ratio": "Verhältnis",
+    "Hauteur de l'image sélectionnée": "Höhe des ausgewählten Bildes"
 }

@@ -37,7 +37,7 @@
     "Aide": "Ayuda",
     "Ajouter un utilisateur": "Agregar usuario",
     "Ajouter une fonte": "Añadir tipografía",
-    "Alignement du contenu": "Alineación de contenido",
+    "Alignement": "Alineación de contenido",
     "Aligner la bannière avec le contenu": "Alinear el banner con el contenido",
     "Ancien mot de passe": "Antigua contraseña",
     "Anonymat des adresses IP": "Anonimato de la dirección IP",
@@ -583,5 +583,10 @@
     "Éditeur de script dans Body": "Éditor del script en el Body",
     "Éditeur de script dans Head": "Éditor del script en el Head",
     "Éléments": "Elementos",
-    "Étiquettes des pages spéciales": "Etiquetas de páginas especiales"
+    "Étiquettes des pages spéciales": "Etiquetas de páginas especiales",
+    "Largeur de l'image": "Ancho de la imagen",
+    "Hauteur de l'image": "Altura de la imagen",
+    "Largeur du site": "Ancho del sitio",
+    "Ratio": "Proporción",
+    "Hauteur de l'image sélectionnée": "Altura de la imagen seleccionada"
 }
