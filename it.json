@@ -612,5 +612,8 @@
     "En dessous du site": "Sotto il sito",
     "Sélectionnez une page pour activer": "Selezionare una pagina da attivare",
     "Couleur icône haut de page": "Colore dell'icona in alto sulla pagina",
-    "Icône haut de page, couleur arrière-plan": "Icona in alto sulla pagina, colore di sfondo"
+    "Icône haut de page, couleur arrière-plan": "Icona in alto sulla pagina, colore di sfondo",
+    "Disponible si le consentement des cookies est activé.": "Disponibile se il consenso ai cookie è attivato.",
+    "Affiche les icônes de gestion du compte et de déconnexion des membres simples connectés.": "Mostra le icone di gestione dell'account e di logout per i membri semplici connessi."
+  
 }

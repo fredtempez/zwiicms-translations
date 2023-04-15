@@ -612,5 +612,8 @@
     "En dessous du site": "Sitenin altında",
     "Sélectionnez une page pour activer": "Etkinleştirmek için bir sayfa seçin",
     "Couleur icône haut de page":"Sayfa üstü simgesi rengi",
-    "Icône haut de page, couleur arrière-plan":"Sayfa üstü simgesi, arka plan rengi"
+    "Icône haut de page, couleur arrière-plan":"Sayfa üstü simgesi, arka plan rengi",
+    "Disponible si le consentement des cookies est activé.": "Çerez onayı etkinleştirilmişse mevcut.",
+    "Affiche les icônes de gestion du compte et de déconnexion des membres simples connectés.": "Basit üyeler için hesap yönetimi simgeleri ve oturumu kapatma işlevini görüntüler."
+  
 }
