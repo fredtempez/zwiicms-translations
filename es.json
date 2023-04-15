@@ -610,5 +610,7 @@
     "Très grande": "Muy grande",
     "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Los tamaños de fuente del banner, menú y pie de página son proporcionales a este tamaño.",
     "En dessous du site": "Debajo del sitio",
-    "Sélectionnez une page pour activer": "Seleccione una página para activar"
+    "Sélectionnez une page pour activer": "Seleccione una página para activar",
+    "Couleur icône haut de page'":"Color del icono superior de la página",
+    "Icône haut de page, couleur arrière-plan":"Icono superior de la página, color de fondo"
 }

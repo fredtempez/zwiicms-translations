@@ -610,6 +610,8 @@
     "Très grande": "Sehr groß",
     "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Die Schriftgrößen des Banners, Menüs und Fußzeile sind proportional zu dieser Größe.",
     "En dessous du site": "Unterhalb der Website",
-    "Sélectionnez une page pour activer": "Wählen Sie eine Seite aus, um sie zu aktivieren"
+    "Sélectionnez une page pour activer": "Wählen Sie eine Seite aus, um sie zu aktivieren",
+    "Couleur icône haut de page'": "Farbe des Icons oben auf der Seite",
+    "Icône haut de page, couleur arrière-plan": "Icon oben auf der Seite, Hintergrundfarbe"
 
 }

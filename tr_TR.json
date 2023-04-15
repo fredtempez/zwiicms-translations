@@ -610,5 +610,7 @@
     "Très grande": "Çok büyük",
     "Les tailles des polices de la bannière, de menu et de pied de page sont proportionnelles à cette taille.": "Banner, menü ve altbilgi yazı tiplerinin boyutları bu boyuta orantılıdır.",
     "En dessous du site": "Sitenin altında",
-    "Sélectionnez une page pour activer": "Etkinleştirmek için bir sayfa seçin"
+    "Sélectionnez une page pour activer": "Etkinleştirmek için bir sayfa seçin",
+    "Couleur icône haut de page'":"Sayfa üstü simgesi rengi",
+    "Icône haut de page, couleur arrière-plan":"Sayfa üstü simgesi, arka plan rengi"
 }
