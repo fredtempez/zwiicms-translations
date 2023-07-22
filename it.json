@@ -658,5 +658,7 @@
     "Configurer": "Configura",
     "Recherche": "Ricerca",
     "Presse Papier": "Appunti",
-    "Prévisualiser": "Anteprima"
+    "Prévisualiser": "Anteprima",
+    "La réécriture d'URL n'a pas été restaurée !": "La riscrittura dell'URL non è stata ripristinata!",
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "La copia di backup del file htaccess non è stata ripristinata!"
 }

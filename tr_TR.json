@@ -658,5 +658,7 @@
     "Configurer": "Yapılandır",
     "Recherche": "Arama",
     "Presse Papier": "Panoya kopyala",
-    "Prévisualiser": "Önizleme"
+    "Prévisualiser": "Önizleme",
+    "La réécriture d'URL n'a pas été restaurée !": "URL yeniden yazma geri yüklenmedi!",
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "htaccess dosyasının yedek kopyası geri yüklenmedi!"
 }

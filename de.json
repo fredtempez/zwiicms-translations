@@ -658,5 +658,6 @@
     "Configurer": "Konfigurieren",
     "Recherche": "Suche",
     "Presse Papier": "Zwischenablage",
-    "Prévisualiser": "Vorschau"
+    "Prévisualiser": "Vorschau","La réécriture d'URL n'a pas été restaurée !": "URL-Umschreibung wurde nicht wiederhergestellt!",
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Sicherungskopie der htaccess-Datei wurde nicht wiederhergestellt!"
 }

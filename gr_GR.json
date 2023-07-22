@@ -658,5 +658,7 @@
     "Configurer": "Konfigurieren",
     "Recherche": "Suche",
     "Presse Papier": "Zwischenablage",
-    "Prévisualiser": "Vorschau"
+    "Prévisualiser": "Vorschau",
+    "La réécriture d'URL n'a pas été restaurée !": "Η αναδιαμόρφωση του URL δεν έχει αποκατασταθεί!",
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Η αντίγραφη ασφαλείας του αρχείου htaccess δεν έχει αποκατασταθεί!"
 }

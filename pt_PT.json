@@ -658,5 +658,7 @@
     "Configurer": "Configurar",
     "Recherche": "Pesquisar",
     "Presse Papier": "Área de transferência",
-    "Prévisualiser": "Visualizar"
+    "Prévisualiser": "Visualizar",
+    "La réécriture d'URL n'a pas été restaurée !": "A reescrita de URL não foi restaurada!",
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "A cópia de segurança do arquivo htaccess não foi restaurada!"
 }
