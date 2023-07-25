@@ -8,6 +8,8 @@ $folderTargetArray = ['../',
 					 '../modules/gallery/',
 					 '../modules/redirection/',
 					 '../modules/search/',
+					 '../modules/slider/',
+					 '../modules/download/',
 					];
 foreach($folderTargetArray as $keyFolder => $folderTarget) {
 	echo '<p><strong>' . $folderTarget . '</strong></p/>';
