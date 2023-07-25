@@ -636,12 +636,11 @@
     "Droits sur les dossiers": "Diritti sulle cartelle",
     "Permissions sur les fichiers": "Permessi sui file",
     "Téléverser": "Carica",
-    "Prévisualier": "Anteprima",
+    "Prévisualiser": "Anteprima",
     "Dupliquer": "Duplica",
     "Extraire": "Estrai",
     "Presse papier": "Appunti",
     "Droits sur les fichiers": "Diritti sui file",
-    "Éditeur": "Editor",
     "Permissions sur les pages": "Permessi sulle pagine",
     "Permissions sur le module": "Permessi sul modulo",
     "Blog": "Blog",
@@ -658,7 +657,6 @@
     "Configurer": "Configura",
     "Recherche": "Ricerca",
     "Presse Papier": "Appunti",
-    "Prévisualiser": "Anteprima",
     "La réécriture d'URL n'a pas été restaurée !": "La riscrittura dell'URL non è stata ripristinata!",
     "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "La copia di backup del file htaccess non è stata ripristinata!"
 }

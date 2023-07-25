@@ -636,12 +636,11 @@
     "Droits sur les dossiers": "Klasör hakları",
     "Permissions sur les fichiers": "Dosya izinleri",
     "Téléverser": "Yükle",
-    "Prévisualier": "Önizleme",
+    "Prévisualiser": "Önizleme",
     "Dupliquer": "Kopyala",
     "Extraire": "Çıkar",
     "Presse papier": "Panoya kopyala",
     "Droits sur les fichiers": "Dosya hakları",
-    "Éditeur": "Düzenleyici",
     "Permissions sur les pages": "Sayfa izinleri",
     "Permissions sur le module": "Modül izinleri",
     "Blog": "Blog",
@@ -658,7 +657,6 @@
     "Configurer": "Yapılandır",
     "Recherche": "Arama",
     "Presse Papier": "Panoya kopyala",
-    "Prévisualiser": "Önizleme",
     "La réécriture d'URL n'a pas été restaurée !": "URL yeniden yazma geri yüklenmedi!",
     "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "htaccess dosyasının yedek kopyası geri yüklenmedi!"
 }

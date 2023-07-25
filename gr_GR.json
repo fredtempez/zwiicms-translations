@@ -636,12 +636,11 @@
     "Droits sur les dossiers": "Rechte für Verzeichnisse",
     "Permissions sur les fichiers": "Berechtigungen für Dateien",
     "Téléverser": "Hochladen",
-    "Prévisualier": "Vorschau",
+    "Prévisualiser": "Vorschau",
     "Dupliquer": "Duplizieren",
     "Extraire": "Extrahieren",
     "Presse papier": "Zwischenablage",
     "Droits sur les fichiers": "Dateirechte",
-    "Éditeur": "Editor",
     "Permissions sur les pages": "Berechtigungen für Seiten",
     "Permissions sur le module": "Berechtigungen für Modul",
     "Blog": "Blog",
@@ -658,7 +657,6 @@
     "Configurer": "Konfigurieren",
     "Recherche": "Suche",
     "Presse Papier": "Zwischenablage",
-    "Prévisualiser": "Vorschau",
     "La réécriture d'URL n'a pas été restaurée !": "Η αναδιαμόρφωση του URL δεν έχει αποκατασταθεί!",
     "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Η αντίγραφη ασφαλείας του αρχείου htaccess δεν έχει αποκατασταθεί!"
 }

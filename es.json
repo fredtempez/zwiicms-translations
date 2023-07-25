@@ -636,12 +636,11 @@
     "Droits sur les dossiers": "Derechos de las carpetas",
     "Permissions sur les fichiers": "Permisos de los archivos",
     "Téléverser": "Subir",
-    "Prévisualier": "Previsualizar",
+    "Prévisualiser": "Previsualizar",
     "Dupliquer": "Duplicar",
     "Extraire": "Extraer",
     "Presse papier": "Portapapeles",
     "Droits sur les fichiers": "Derechos de los archivos",
-    "Éditeur": "Editor",
     "Permissions sur les pages": "Permisos de las páginas",
     "Permissions sur le module": "Permisos del módulo",
     "Blog": "Blog",
@@ -658,7 +657,6 @@
     "Configurer": "Configurar",
     "Recherche": "Buscar",
     "Presse Papier": "Portapapeles",
-    "Prévisualiser": "Previsualizar",
     "La réécriture d'URL n'a pas été restaurée !": "¡La reescritura de URL no ha sido restaurada!",
     "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "¡La copia de seguridad del archivo htaccess no ha sido restaurada!"
 }
