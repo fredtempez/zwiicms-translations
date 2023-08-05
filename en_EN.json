@@ -1,5 +1,6 @@
 {
-    "Affiche les icônes de gestion du compte et de déconnexion des membres simples connectés.": "Displays icons for account management and logout of logged-in regular members.",
+    "Affiche les icônes de gestion du compte et de déconnexion des membres simples connectés": "Displays account management and logout icons for logged-in regular members",
+    "News": "",
     "'Ne pas afficher' crée une page orpheline non accessible par le biais des menus.": "'Do not display' creates an orphan page not accessible through menus.",
     "'Sauvegarder et télécharger les données du module": "'Save and download module data",
     "1 jour": "1 jour",
