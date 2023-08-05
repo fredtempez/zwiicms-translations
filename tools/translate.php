@@ -2,7 +2,7 @@
 
 
 $langSource = 'fr_FR';
-$langTarget = 'el';
+$langTarget = 'de';
 $folderTargetArray = [
     '../',
     /*
@@ -16,7 +16,7 @@ $folderTargetArray = [
 ];
 foreach ($folderTargetArray as $keyFolder => $folderTarget) {
     if (file_exists($folderTarget . $langSource . '.json')) {
-        $sourceData = json_decode(file_get_contents($folderTarget . $langSource . '-2.json'), true);
+        $sourceData = json_decode(file_get_contents($folderTarget . $langSource . '.json'), true);
         foreach ($sourceData as $originText => $targetText) {
             if (empty($targetText)) {
                 echo '<p>';
