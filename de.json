@@ -658,5 +658,10 @@
     "Recherche": "Suche",
     "Presse Papier": "Zwischenablage",
     "La réécriture d'URL n'a pas été restaurée !": "URL-Umschreibung wurde nicht wiederhergestellt!",
-    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Sicherungskopie der htaccess-Datei wurde nicht wiederhergestellt!"
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Sicherungskopie der htaccess-Datei wurde nicht wiederhergestellt!",
+    "Gérer les commentaires": "Kommentare verwalten",
+    "Effacer toutes les statistiques": "Delete all statistics",
+    "Éditer une catégorie": "Kategorie bearbeiten",
+    "Effacer une catégorie": "Kategorie löschen",
+    "Gérer les catégories": "Kategorien verwalten"
 }

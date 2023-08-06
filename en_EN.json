@@ -658,5 +658,10 @@
     "Recherche": "Search",
     "Presse Papier": "Clipboard",
     "La réécriture d'URL n'a pas été restaurée !": "URL rewriting has not been restored!",
-    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Backup copy of htaccess file has not been restored!"
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Backup copy of htaccess file has not been restored!",
+    "Gérer les commentaires": "Manage comments",
+    "Effacer toutes les statistiques": "Delete all statistics",
+    "Effacer une catégorie": "Delete category",
+    "Gérer les catégories": "Manage categories",
+    "Éditer une catégorie": "Edit category"
 }

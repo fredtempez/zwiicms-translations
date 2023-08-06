@@ -658,5 +658,10 @@
     "Recherche": "Buscar",
     "Presse Papier": "Portapapeles",
     "La réécriture d'URL n'a pas été restaurée !": "¡La reescritura de URL no ha sido restaurada!",
-    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "¡La copia de seguridad del archivo htaccess no ha sido restaurada!"
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "¡La copia de seguridad del archivo htaccess no ha sido restaurada!",
+    "Gérer les commentaires": "Administrar comentarios",
+    "Effacer toutes les statistiques": "Borrar todas las estadísticas",
+    "Éditer une catégorie": "Editar categoría",
+    "Gérer les catégories": "Gestionar categorías",
+    "Effacer une catégorie": "Borrar categoría"
 }

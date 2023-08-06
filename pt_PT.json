@@ -658,5 +658,10 @@
     "Recherche": "Pesquisar",
     "Presse Papier": "Área de transferência",
     "La réécriture d'URL n'a pas été restaurée !": "A reescrita de URL não foi restaurada!",
-    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "A cópia de segurança do arquivo htaccess não foi restaurada!"
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "A cópia de segurança do arquivo htaccess não foi restaurada!",
+    "Gérer les commentaires": "Gerenciar comentários",
+    "Effacer toutes les statistiques": "Excluir todas as estatísticas",
+    "Éditer une catégorie": "Editar categoria",
+    "Effacer une catégorie": "Excluir categoria",
+    "Gérer les catégories": "Gerenciar categorias"
 }

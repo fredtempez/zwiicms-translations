@@ -658,5 +658,10 @@
     "Recherche": "Arama",
     "Presse Papier": "Panoya kopyala",
     "La réécriture d'URL n'a pas été restaurée !": "URL yeniden yazma geri yüklenmedi!",
-    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "htaccess dosyasının yedek kopyası geri yüklenmedi!"
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "htaccess dosyasının yedek kopyası geri yüklenmedi!",
+    "Gérer les commentaires": "Yorumları yönet",
+    "Effacer toutes les statistiques": "Tüm istatistikleri sil",
+    "Éditer une catégorie": "Kategori düzenle",
+    "Effacer une catégorie": "Kategoriyi sil",
+    "Gérer les catégories": "Kategorileri yönet"
 }

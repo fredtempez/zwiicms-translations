@@ -658,5 +658,7 @@
     "Recherche": "Ricerca",
     "Presse Papier": "Appunti",
     "La réécriture d'URL n'a pas été restaurée !": "La riscrittura dell'URL non è stata ripristinata!",
-    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "La copia di backup del file htaccess non è stata ripristinata!"
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "La copia di backup del file htaccess non è stata ripristinata!",
+    "Gérer les commentaires": "Gestire i commenti",
+    "Effacer toutes les statistiques": "Elimina tutte le statistiche"
 }

@@ -658,5 +658,10 @@
     "Recherche": "Suche",
     "Presse Papier": "Zwischenablage",
     "La réécriture d'URL n'a pas été restaurée !": "Η αναδιαμόρφωση του URL δεν έχει αποκατασταθεί!",
-    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Η αντίγραφη ασφαλείας του αρχείου htaccess δεν έχει αποκατασταθεί!"
+    "La copie de sauvegarde du fichier htaccess n'a pas été restaurée !": "Η αντίγραφη ασφαλείας του αρχείου htaccess δεν έχει αποκατασταθεί!",
+    "Gérer les commentaires": "Διαχείριση σχολίων",
+    "Effacer toutes les statistiques": "Διαγραφή όλων των στατιστικών",
+    "Éditer une catégorie": "Επεξεργασία κατηγορίας",
+    "Effacer une catégorie": "Διαγραφή κατηγορίας",
+    "Gérer les catégories": "Διαχείριση κατηγοριών"
 }
