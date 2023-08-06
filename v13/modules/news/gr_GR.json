@@ -17,7 +17,6 @@
     "Article supprimé": "",
     "Articles par page": "άρθρα ανά σελίδα ",
     "Aucun article": "Δεν υπάρχουν άρθρα",
-    "Aucune": "Χωρίς",
     "Auteur": "Συντάκτης",
     "Bordure": "κάδρο γύρω",
     "Brouillon": "Σχέδιο",
@@ -33,7 +32,6 @@
     "Options de configuration": "Επιλογές διαμόρφωσης",
     "Options de publication": "Επιλογές δημοσίευσης",
     "Permanent": "μόνιμος",
-    "Petite": "μικρη",
     "Publication": "Ημερομηνία έκδοσης",
     "Publier": "Δημοσιεύω",
     "Publié": "δημοσιεύθηκε",
@@ -41,6 +39,5 @@
     "Rédiger une news": "Γράψε μια είδηση",
     "Supprimer cet article ?": "Να διαγράψετε αυτό το άρθρο;",
     "Très fine": "Πολύ λεπτή γραμμή",
-    "Très petite": "Πολύ μικρη",
     "Épaisseur": "Πάχος"
 }
