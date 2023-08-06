@@ -16,11 +16,9 @@
     "Effacer le commentaire": "Borrar comentario",
     "Effacer tous les commentaires": "Borrar todos los comentarios",
     "Effacer toutes les statistiques": "Borrar todas las estadísticas",
-    "Effacer une catégorie": "Borrar categoría",
     "Fermer les commentaires": "Cerrar los comentarios",
     "Grande": "Grande",
     "Groupe du propriétaire": "Grupo de propietarios",
-    "Gérer les catégories": "Gestionar categorías",
     "Gérer les commentaires": "Gestionar comentarios",
     "Largeur": "Ancho de la imagen",
     "Lien du flux RSS": "Enlace de fuente RSS",
@@ -35,6 +33,8 @@
     "Très Grande": "Muy grande",
     "Très petite": "Muy pequeña",
     "Éditer une catégorie": "Editar categoría",
+    "Gérer les catégories": "Gestionar categorías",
+    "Effacer une catégorie": "Borrar categoría",
     "Éditeur": "Editor",
     "État": "Estado"
 }
