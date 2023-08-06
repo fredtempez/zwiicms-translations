@@ -11,11 +11,11 @@ foreach ($languages as $langCode => $langFile) {
     $mainLangFile = $langFile;
 
     if (is_file($mainLangFile)) {
-        $mainLangData = json_decode(file_get_contents($mainLangFile), true);
+        $mainLangData = json_decode(file_get_contents('../' . $mainLangFile), true);
 
         // Parcourir les sous-dossiers des modules
         foreach ($moduleSubdirs as $subdir) {
-            $moduleLangFile = 'modules/' . $subdir . '/' . $langFile;
+            $moduleLangFile = '../modules/' . $subdir . '/' . $langFile;
 
             if (is_file($moduleLangFile)) {
                 $moduleLangData = json_decode(file_get_contents($moduleLangFile), true);
