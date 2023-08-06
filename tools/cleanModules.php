@@ -8,46 +8,28 @@ $folderTargetArray = [
     '../modules/gallery/',
     '../modules/redirection/',
     '../modules/search/',
+    '../modules/slider/',
+    '../modules/download/',
 ];
 foreach ($langTargetArray as $lang) {
     echo $lang;
     echo '<hr>';
     foreach ($folderTargetArray as $module) {
         $fichiers[] = $module . $lang . '.json';
-        trouver_clés_uniques_et_effacer_doublons($fichiers, $lang);
+
+        $json = json_decode(file_get_contents($fichier), true);
+        $result = filterMatchingArrays($json, $lang);
+
+            // Enregistrer les clés uniques dans un fichier JSON
+        file_put_contents($target . '.json', json_encode($result, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
     }
 }
 
-function trouver_clés_uniques_et_effacer_doublons($fichiers, $target)
-{
-    // Tableau pour stocker toutes les clés des tableaux JSON
-    $toutes_cles = array();
 
-    // Parcourir tous les fichiers JSON et ajouter les clés au tableau $toutes_cles
-    foreach ($fichiers as $fichier) {
-        $json = json_decode(file_get_contents($fichier), true);
-        $toutes_cles = array_merge($toutes_cles, array_keys($json));
-    }
+function filterMatchingArrays($array1, $array2) {
+    $filteredArray = array_filter($array2, function($item) use ($array1) {
+        return in_array($item, $array1);
+    });
 
-    // Supprimer les clés en double
-    $cles_uniques = array_unique($toutes_cles);
-
-    // Parcourir tous les fichiers JSON et supprimer les clés en double
-    foreach ($fichiers as $fichier) {
-        $json = json_decode(file_get_contents($fichier), true);
-        $json_unique = array_intersect_key($json, array_flip($cles_uniques));
-        file_put_contents($fichier, json_encode($json_unique, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
-    }
-
-    // Créer un tableau vide pour stocker les clés uniques des tableaux JSON
-    $json_final = array();
-
-    // Parcourir tous les fichiers JSON et ne conserver que les clés uniques
-    foreach ($fichiers as $fichier) {
-        $json = json_decode(file_get_contents($fichier), true);
-        $json_final = array_merge($json_final, $json);
-    }
-
-    // Enregistrer les clés uniques dans un fichier JSON
-    file_put_contents($target . '.json', json_encode($json_final, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT));
+    return array_values($filteredArray);
 }
