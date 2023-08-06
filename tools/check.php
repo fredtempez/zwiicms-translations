@@ -17,8 +17,8 @@ foreach($folderTargetArray as $keyFolder => $folderTarget) {
 		if (file_exists($folderTarget . $langSource . '.json') &&
 			file_exists($folderTarget . $langTarget . '.json') )
 		{
-			$source = json_decode(file_get_contents($folderTarget . $langSource . '.json'), true);
-			$target = json_decode(file_get_contents($folderTarget . $langTarget . '.json'), true);
+			$source = json_decode(file_get_contents($folderTarget . $langSource . '.json'), true, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES );
+			$target = json_decode(file_get_contents($folderTarget . $langTarget . '.json'), true, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 			$intersec = array_intersect_key($target, $source);
 			$dif = array_diff_key($source, $target);
 			$merge = array_merge($dif, $intersec);
