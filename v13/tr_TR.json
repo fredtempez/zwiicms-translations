@@ -671,5 +671,9 @@
     "Édition du profil %s": "%s Profilini düzenleme",
     "Éléments": "Öğeler",
     "Étendu sur la page": "Sayfa boyunca yayılmış",
-    "Étiquettes des pages spéciales": "Özel sayfa etiketleri"
+    "Étiquettes des pages spéciales": "Özel sayfa etiketleri",
+    "Dimensions minimales": "Minimum boyutlar",
+    "Taille maximale du fichier": "Maksimum dosya boyutu",
+    "5 Mo pour les images JPEG": "JPEG resimleri için 5 MB",
+    "1 Mo pour les images PNG": "PNG resimleri için 1 MB"
 }

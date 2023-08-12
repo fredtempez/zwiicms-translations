@@ -671,5 +671,9 @@
     "Édition du profil %s": "Profil bearbeiten %s",
     "Éléments": "Στοιχεία",
     "Étendu sur la page": "Εκτείνεται στη σελίδα",
-    "Étiquettes des pages spéciales": "Ειδικές ετικέτες σελίδων"
+    "Étiquettes des pages spéciales": "Ειδικές ετικέτες σελίδων",
+    "Dimensions minimales": "Ελάχιστες διαστάσεις",
+    "Taille maximale du fichier": "Μέγιστο μέγεθος αρχείου",
+    "5 Mo pour les images JPEG": "5 MB για εικόνες JPEG",
+    "1 Mo pour les images PNG": "1 MB για εικόνες PNG"
 }

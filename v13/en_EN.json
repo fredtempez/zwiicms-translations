@@ -671,5 +671,9 @@
     "Édition du profil %s": "Edit Profile %s",
     "Éléments": "Items",
     "Étendu sur la page": "Spread across the page",
-    "Étiquettes des pages spéciales": "Special pages labels"
+    "Étiquettes des pages spéciales": "Special pages labels",
+    "Dimensions minimales": "Minimum dimensions",
+    "Taille maximale du fichier": "Maximum file size",
+    "5 Mo pour les images JPEG": "5 MB for JPEG images",
+    "1 Mo pour les images PNG": "1 MB for PNG images"
 }

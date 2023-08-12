@@ -671,5 +671,9 @@
     "Édition du profil %s": "Profil bearbeiten %s",
     "Éléments": "Elemente",
     "Étendu sur la page": "Über die Seite ausgebreitet",
-    "Étiquettes des pages spéciales": "Spezielle Seiten Beschriftungen"
+    "Étiquettes des pages spéciales": "Spezielle Seiten Beschriftungen",
+    "Dimensions minimales": "Mindestabmessungen",
+    "Taille maximale du fichier": "Maximale Dateigröße",
+    "5 Mo pour les images JPEG": "5 MB für JPEG-Bilder",
+    "1 Mo pour les images PNG": "1 MB für PNG-Bilder"
 }

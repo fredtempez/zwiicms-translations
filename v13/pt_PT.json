@@ -671,5 +671,9 @@
     "Édition du profil %s": "Edição do perfil %s",
     "Éléments": "Itens",
     "Étendu sur la page": "Espalhado pela página",
-    "Étiquettes des pages spéciales": "Tags de página especiais"
+    "Étiquettes des pages spéciales": "Tags de página especiais",
+    "Dimensions minimales": "Dimensões mínimas",
+    "Taille maximale du fichier": "Tamanho máximo do arquivo",
+    "5 Mo pour les images JPEG": "5 MB para imagens JPEG",
+    "1 Mo pour les images PNG": "1 MB para imagens PNG"
 }
