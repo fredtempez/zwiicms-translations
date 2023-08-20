@@ -675,5 +675,7 @@
     "Dimensions minimales": "Minimum boyutlar",
     "Taille maximale du fichier": "Maksimum dosya boyutu",
     "5 Mo pour les images JPEG": "JPEG resimleri için 5 MB",
-    "1 Mo pour les images PNG": "PNG resimleri için 1 MB"
+    "1 Mo pour les images PNG": "PNG resimleri için 1 MB",
+    "Poids": "Ağırlık",
+    "Supprimer ce profil ?": "Bu profili silinsin mi?"
 }

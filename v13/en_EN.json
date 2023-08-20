@@ -675,5 +675,7 @@
     "Dimensions minimales": "Minimum dimensions",
     "Taille maximale du fichier": "Maximum file size",
     "5 Mo pour les images JPEG": "5 MB for JPEG images",
-    "1 Mo pour les images PNG": "1 MB for PNG images"
+    "1 Mo pour les images PNG": "1 MB for PNG images",
+    "Poids": "Weight",
+    "Supprimer ce profil ?": "Delete this profile?"
 }
