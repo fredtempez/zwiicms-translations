@@ -677,5 +677,14 @@
     "5 Mo pour les images JPEG": "5 MB for JPEG images",
     "1 Mo pour les images PNG": "1 MB for PNG images",
     "Poids": "Weight",
-    "Supprimer ce profil ?": "Delete this profile?"
+    "Supprimer ce profil ?": "Delete this profile?",
+    "Masqué": "Hidden",
+    "Haut de page": "Top of Page",
+    "Bas de page": "Bottom of Page",
+    "Petit triangle": "Small Triangle",
+    "Grand triangle": "Large Triangle",
+    "Flèche": "Arrow",
+    "Modèle": "Template",
+    "Bouton de navigation droit": "Right Navigation Button",
+    "Bouton de navigation gauche": "Left Navigation Button"
 }

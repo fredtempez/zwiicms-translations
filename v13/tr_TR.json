@@ -677,5 +677,14 @@
     "5 Mo pour les images JPEG": "JPEG resimleri için 5 MB",
     "1 Mo pour les images PNG": "PNG resimleri için 1 MB",
     "Poids": "Ağırlık",
-    "Supprimer ce profil ?": "Bu profili silinsin mi?"
+    "Supprimer ce profil ?": "Bu profili silinsin mi?",
+    "Masqué": "Gizli",
+    "Haut de page": "Sayfanın üstü",
+    "Bas de page": "Sayfanın altı",
+    "Petit triangle": "Küçük üçgen",
+    "Grand triangle": "Büyük üçgen",
+    "Flèche": "Ok",
+    "Modèle": "Şablon",
+    "Bouton de navigation droit": "Sağ Navigasyon Düğmesi",
+    "Bouton de navigation gauche": "Sol Navigasyon Düğmesi"
 }
