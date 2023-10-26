@@ -569,7 +569,7 @@
     "Standard": "Standart",
     "Style": "Stil",
     "Suppression interdite": "Silme yasak",
-    "Suppression interdite, page active dans la configuration du site": "Silinmesi yasak, site yapılandırmasında aktif sayfa",
+    "Suppression interdite, page active dans la configuration de la langue du site": "Silme izin verilmiyor, sayfa site dil konfigürasyonunda aktif",
     "Supprime le point d'interrogation dans les URL, l'option est indisponible avec les autres serveurs Web": "URL'lerdeki soru işaretini kaldır, seçenek diğer web sunucularında kullanılamaz",
     "Supprimer": "Silmek",
     "Supprimer la page": "Sayfayı sil",

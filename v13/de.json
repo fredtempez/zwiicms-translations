@@ -569,7 +569,7 @@
     "Standard": "Standard",
     "Style": "Stil",
     "Suppression interdite": "Löschung verboten",
-    "Suppression interdite, page active dans la configuration du site": "Verbot löschte, aktive Seite in der Site -Konfiguration",
+    "Suppression interdite, page active dans la configuration de la langue du site": "Löschen nicht erlaubt, Seite ist in der Sprachkonfiguration der Website aktiv",
     "Supprime le point d'interrogation dans les URL, l'option est indisponible avec les autres serveurs Web": "Löscht das Fragezeichen in den URLs, die Option ist mit anderen Webservern nicht verfügbar",
     "Supprimer": "LÖSCHEN",
     "Supprimer la page": "Löschen Sie die Seite",
