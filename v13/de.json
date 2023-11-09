@@ -688,5 +688,6 @@
     "Bouton de navigation gauche": "Linke Navigations-Schaltfläche",
     "Groupes / Profils": "Gruppen / Profile",
     "Prénom commence par": "Vorname beginnt mit",
-    "Nom commence par": "Nachname beginnt mit"
+    "Nom commence par": "Nachname beginnt mit",
+    "Impossible de réinitialiser le mot de passe de ce compte !": "Das Passwort für dieses Konto kann nicht zurückgesetzt werden!"
 }

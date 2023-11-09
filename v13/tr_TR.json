@@ -687,5 +687,6 @@
     "Bouton de navigation droit": "Sağ Navigasyon Düğmesi",
     "Bouton de navigation gauche": "Sol Navigasyon Düğmesi",  "Groupes / Profils": "Gruplar / Profiller",
     "Prénom commence par": "Adıyla başlayanlar",
-    "Nom commence par": "Soyadıyla başlayanlar"
+    "Nom commence par": "Soyadıyla başlayanlar",
+    "Impossible de réinitialiser le mot de passe de ce compte !": "Bu hesabın şifresini sıfırlayamıyorum!"
 }
