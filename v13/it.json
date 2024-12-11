@@ -1,7 +1,7 @@
 {
     "'Ne pas afficher' crée une page orpheline non accessible par le biais des menus.": "'Non mostrare' crea una pagina orfana a cui non si può accedere tramite i menu",
     "'Sauvegarder et télécharger les données du module": "Salva e scarica i dati del modulo",
-    "1 jour": "1 Jour",
+    "1 jour": "1 giorno",
     "1/4 : Préparation...": "1/4 : Preparazione...",
     "10 minutes": "10 minuti",
     "10 tentatives": "10 tentativi",
@@ -547,7 +547,7 @@
     "Sauvegarde": "Backup",
     "Sauvegarde automatique quotidienne du site": "Backup automatico giornaliero del sito",
     "Sauvegarde du thème dans le": "Salva tema nel",
-    "Sauvegarde générée avec succès"Backup generato con successo",
+    "Sauvegarde générée avec succès": "Backup generato con successo",
     "Sauvegarder": "Salva",
     "Sauvegarder et télécharger le module": "Salva e scarica il modulo",
     "Sauvegarder le module dans le gestionnaire de fichiers": "Salva il modulo nel file manager",
