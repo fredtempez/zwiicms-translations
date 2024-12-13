@@ -689,5 +689,6 @@
     "Groupes / Profils": "Ομάδες / Προφίλ",
     "Prénom commence par": "Το όνομα ξεκινά με",
     "Nom commence par": "Το επίθετο ξεκινά με",
-    "Impossible de réinitialiser le mot de passe de ce compte !": "Δεν μπορώ να επαναφέρω τον κωδικό πρόσβασης αυτού του λογαριασμού!"
+    "Impossible de réinitialiser le mot de passe de ce compte !": "Δεν μπορώ να επαναφέρω τον κωδικό πρόσβασης αυτού του λογαριασμού!",
+    "Authentification par messagerie ⚠️": "Ταυτοποίηση μέσω email ⚠️"
 }

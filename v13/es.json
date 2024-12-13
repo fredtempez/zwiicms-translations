@@ -689,5 +689,6 @@
     "Groupes / Profils": "Grupos / Perfiles",
     "Prénom commence par": "El nombre comienza con",
     "Nom commence par": "El apellido comienza con",
-    "Impossible de réinitialiser le mot de passe de ce compte !": "No puedo restablecer la contraseña de esta cuenta."
+    "Impossible de réinitialiser le mot de passe de ce compte !": "No puedo restablecer la contraseña de esta cuenta.",
+    "Authentification par messagerie ⚠️": "Autenticación por correo electrónico ⚠️"
 }
