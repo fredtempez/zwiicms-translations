@@ -690,5 +690,15 @@
     "Prénom commence par": "Vorname beginnt mit",
     "Nom commence par": "Nachname beginnt mit",
     "Impossible de réinitialiser le mot de passe de ce compte !": "Das Passwort für dieses Konto kann nicht zurückgesetzt werden!",
-    "Authentification par messagerie ⚠️": "Authentifizierung per E-Mail ⚠️"
+    "Test de la messagerie du site": "Website-Messaging-Test",
+    "Il semblerait que votre messagerie fonctionne correctement !": "Es scheint, dass Ihre Nachrichtenfunktion einwandfrei funktioniert!",
+    "Message de test envoyé avec succès": "Testnachricht erfolgreich gesendet",
+    "Message non envoyé": "Nachricht nicht gesendet",
+    "Validation par clé ⚠️": "Validierung per Schlüssel ⚠️",
+    "La connexion est confirmée à l'aide d'une clé transmise par messagerie. Depuis le groupe sélectionné et les groupes supérieurs.": "Die Verbindung wird mit einem per Nachricht übermittelten Schlüssel bestätigt. Aus der ausgewählten Gruppe und den übergeordneten Gruppen.",
+    "Envoi du message d'authentification": "Senden der Authentifizierungsnachricht",
+    "Connexion réussie": "Anmeldung erfolgreich",
+    "Erreur de mot de passe": "Passwortfehler",
+    "Erreur de captcha": "Captcha-Fehler",
+    "Clé envoyée par message": "Schlüssel per Nachricht gesendet"
 }

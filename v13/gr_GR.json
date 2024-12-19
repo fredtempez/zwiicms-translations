@@ -690,5 +690,15 @@
     "Prénom commence par": "Το όνομα ξεκινά με",
     "Nom commence par": "Το επίθετο ξεκινά με",
     "Impossible de réinitialiser le mot de passe de ce compte !": "Δεν μπορώ να επαναφέρω τον κωδικό πρόσβασης αυτού του λογαριασμού!",
-    "Authentification par messagerie ⚠️": "Ταυτοποίηση μέσω email ⚠️"
+    "Test de la messagerie du site": "Δοκιμή μηνυμάτων ιστότοπου",
+    "Il semblerait que votre messagerie fonctionne correctement !": "Φαίνεται ότι η υπηρεσία μηνυμάτων σας λειτουργεί σωστά!",
+    "Message de test envoyé avec succès": "Μήνυμα δοκιμής στάλθηκε με επιτυχία",
+    "Message non envoyé": "Το μήνυμα δεν στάλθηκε",
+    "Validation par clé ⚠️": "Επικύρωση μέσω κλειδιού ⚠️",
+    "La connexion est confirmée à l'aide d'une clé transmise par messagerie. Depuis le groupe sélectionné et les groupes supérieurs.": "Η σύνδεση επιβεβαιώνεται με τη χρήση ενός κλειδιού που αποστέλλεται μέσω μηνυμάτων. Από την επιλεγμένη ομάδα και τις ανώτερες ομάδες.",
+    "Envoi du message d'authentification": "Αποστολή μηνύματος πιστοποίησης",
+    "Connexion réussie": "Επιτυχής σύνδεση",
+    "Erreur de mot de passe": "Σφάλμα κωδικού πρόσβασης",
+    "Erreur de captcha": "Σφάλμα captcha",
+    "Clé envoyée par message": "Κλειδί που εστάλη μέσω μηνύματος"
 }
