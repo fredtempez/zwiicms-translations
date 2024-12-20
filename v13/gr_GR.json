@@ -700,5 +700,6 @@
     "Connexion réussie": "Επιτυχής σύνδεση",
     "Erreur de mot de passe": "Σφάλμα κωδικού πρόσβασης",
     "Erreur de captcha": "Σφάλμα captcha",
-    "Clé envoyée par message": "Κλειδί που εστάλη μέσω μηνύματος"
+    "Clé envoyée par message": "Κλειδί που εστάλη μέσω μηνύματος",
+    "Message de test": "Μήνυμα δοκιμής"
 }
