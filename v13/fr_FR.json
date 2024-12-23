@@ -701,5 +701,6 @@
     "Erreur de mot de passe": "",
     "Erreur de captcha": "",
     "Clé envoyée par message": "",
-    "Message de test": ""
+    "Message de test": "",
+    "Clé d'authentification envoyée à votre adresse mail %s": ""
 }

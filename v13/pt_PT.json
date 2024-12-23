@@ -701,5 +701,6 @@
     "Erreur de mot de passe": "Erro de senha",
     "Erreur de captcha": "Erro de captcha",
     "Clé envoyée par message": "Chave enviada por mensagem",
-    "Message de test": "Mensagem de teste"
+    "Message de test": "Mensagem de teste",
+    "Clé d'authentification envoyée à votre adresse mail %s": "Chave de autenticação enviada para o seu endereço de email %s"
 }

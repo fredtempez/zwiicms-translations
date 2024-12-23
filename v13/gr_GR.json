@@ -701,5 +701,6 @@
     "Erreur de mot de passe": "Σφάλμα κωδικού πρόσβασης",
     "Erreur de captcha": "Σφάλμα captcha",
     "Clé envoyée par message": "Κλειδί που εστάλη μέσω μηνύματος",
-    "Message de test": "Μήνυμα δοκιμής"
+    "Message de test": "Μήνυμα δοκιμής",
+    "Clé d'authentification envoyée à votre adresse mail %s": "Κλειδί ελέγχου ταυτότητας στάλθηκε στη διεύθυνση email σας %s"
 }
