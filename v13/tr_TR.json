@@ -699,7 +699,7 @@
     "Connexion réussie": "Başarılı bağlantı",
     "Erreur de mot de passe": "Şifre hatası",
     "Erreur de captcha": "Captcha hatası",
-    "Clé envoyée par message": "Mesaj yoluyla gönderilen anahtar",
+    "Clé de sécurité": "Güvenlik anahtarı",
     "Message de test": "Test mesajı",
     "Clé d'authentification envoyée à votre adresse mail %s": "Kimlik doğrulama anahtarı e-posta adresinize gönderildi %s"
 }
