@@ -702,5 +702,6 @@
     "Erreur de captcha": "Σφάλμα captcha",
     "Clé de sécurité": "Κλειδί ασφαλείας",
     "Message de test": "Μήνυμα δοκιμής",
-    "Clé d'authentification envoyée à votre adresse mail %s": "Κλειδί ελέγχου ταυτότητας στάλθηκε στη διεύθυνση email σας %s"
+    "Clé d'authentification envoyée à votre adresse mail %s": "Κλειδί ελέγχου ταυτότητας στάλθηκε στη διεύθυνση email σας %s",
+    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "Το email επαναφοράς δεν μπόρεσε να σταλεί, επικοινωνήστε με τον διαχειριστή"
 }

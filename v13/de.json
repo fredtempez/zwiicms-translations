@@ -702,5 +702,6 @@
     "Erreur de captcha": "Captcha-Fehler",
     "Clé de sécurité": "Sicherheitsschlüssel",
     "Message de test": "Testnachricht",
-    "Clé d'authentification envoyée à votre adresse mail %s": "Authentifizierungsschlüssel an Ihre E-Mail-Adresse %s gesendet"
+    "Clé d'authentification envoyée à votre adresse mail %s": "Authentifizierungsschlüssel an Ihre E-Mail-Adresse %s gesendet",
+    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "Die E-Mail zum Zurücksetzen konnte nicht gesendet werden, wenden Sie sich an den Administrator"
 }

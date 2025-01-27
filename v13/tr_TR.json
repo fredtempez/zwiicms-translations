@@ -701,5 +701,6 @@
     "Erreur de captcha": "Captcha hatası",
     "Clé de sécurité": "Güvenlik anahtarı",
     "Message de test": "Test mesajı",
-    "Clé d'authentification envoyée à votre adresse mail %s": "Kimlik doğrulama anahtarı e-posta adresinize gönderildi %s"
+    "Clé d'authentification envoyée à votre adresse mail %s": "Kimlik doğrulama anahtarı e-posta adresinize gönderildi %s",
+    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "Sıfırlama e-postası gönderilemedi, lütfen yöneticiyle iletişime geçin"
 }

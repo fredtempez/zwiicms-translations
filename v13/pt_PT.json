@@ -702,5 +702,6 @@
     "Erreur de captcha": "Erro de captcha",
     "Clé de sécurité": "Chave de segurança",
     "Message de test": "Mensagem de teste",
-    "Clé d'authentification envoyée à votre adresse mail %s": "Chave de autenticação enviada para o seu endereço de email %s"
+    "Clé d'authentification envoyée à votre adresse mail %s": "Chave de autenticação enviada para o seu endereço de email %s",
+     "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "O e-mail de redefinição não pôde ser enviado, entre em contato com o administrador"
 }
