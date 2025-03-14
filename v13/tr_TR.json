@@ -695,7 +695,7 @@
     "Il semblerait que votre messagerie fonctionne correctement !": "Mesajlaşmanızın düzgün çalışıyor gibi görünüyor!",
     "Message de test envoyé avec succès": "Test mesajı başarıyla gönderildi",
     "Message non envoyé": "Mesaj gönderilmedi",
-    "Validation par clé ⚠️": "Anahtar doğrulama ⚠️",
+    "Code de sécurité": "Anahtar doğrulama",
     "La connexion est confirmée à l'aide d'une clé transmise par messagerie. Depuis le groupe sélectionné et les rôles supérieurs.": "Bağlantı, mesajlaşma yoluyla iletilen bir anahtar kullanılarak onaylanır. Seçilen grup ve üst gruplardan.",
     "Envoi du message d'authentification": "Kimlik doğrulama mesajı gönderiliyor",
     "Connexion réussie": "Başarılı bağlantı",

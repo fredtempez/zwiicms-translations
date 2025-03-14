@@ -696,7 +696,7 @@
     "Il semblerait que votre messagerie fonctionne correctement !": "Es scheint, dass Ihre Nachrichtenfunktion einwandfrei funktioniert!",
     "Message de test envoyé avec succès": "Testnachricht erfolgreich gesendet",
     "Message non envoyé": "Nachricht nicht gesendet",
-    "Validation par clé ⚠️": "Validierung per Schlüssel ⚠️",
+    "Code de sécurité": "Validierung per Schlüssel",
     "La connexion est confirmée à l'aide d'une clé transmise par messagerie. Depuis le groupe sélectionné et les rôles supérieurs.": "Die Verbindung wird mit einem per Nachricht übermittelten Schlüssel bestätigt. Aus der ausgewählten Gruppe und den übergeordneten Gruppen.",
     "Envoi du message d'authentification": "Senden der Authentifizierungsnachricht",
     "Connexion réussie": "Anmeldung erfolgreich",
