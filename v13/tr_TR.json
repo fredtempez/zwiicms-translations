@@ -334,6 +334,7 @@
     "Langue du site par défaut": "Varsayılan site dili",
     "Langue par défaut": "Varsayılan dil",
     "Langues": "Diller",
+    "Langue": "Dil",
     "Langues disponibles": "Mevcut diller",
     "Langues installées": "Yüklü diller",
     "Largeur": "Genişliği",
@@ -670,6 +671,7 @@
     "Éléments": "Öğeler",
     "Étendu sur la page": "Sayfa boyunca yayılmış",
     "Étiquettes des pages spéciales": "Özel sayfa etiketleri",
+    "Étiquettes": "Etiketleri",
     "Dimensions minimales": "Minimum boyutlar",
     "Taille maximale du fichier": "Maksimum dosya boyutu",
     "5 Mo pour les images JPEG": "JPEG resimleri için 5 MB",
@@ -692,7 +694,7 @@
     "Il semblerait que votre messagerie fonctionne correctement !": "Mesajlaşmanızın düzgün çalışıyor gibi görünüyor!",
     "Message de test envoyé avec succès": "Test mesajı başarıyla gönderildi",
     "Message non envoyé": "Mesaj gönderilmedi",
-    "Validation par clé ⚠️": "Anahtar doğrulama ⚠️",
+    "Code de sécurité": "Anahtar doğrulama",
     "La connexion est confirmée à l'aide d'une clé transmise par messagerie. Depuis le groupe sélectionné et les rôles supérieurs.": "Bağlantı, mesajlaşma yoluyla iletilen bir anahtar kullanılarak onaylanır. Seçilen grup ve üst gruplardan.",
     "Envoi du message d'authentification": "Kimlik doğrulama mesajı gönderiliyor",
     "Connexion réussie": "Başarılı bağlantı",
@@ -701,5 +703,6 @@
     "Clé de sécurité": "Güvenlik anahtarı",
     "Message de test": "Test mesajı",
     "Clé d'authentification envoyée à votre adresse mail %s": "Kimlik doğrulama anahtarı e-posta adresinize gönderildi %s",
-    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "Sıfırlama e-postası gönderilemedi, lütfen yöneticiyle iletişime geçin"
+    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "Sıfırlama e-postası gönderilemedi, lütfen yöneticiyle iletişime geçin",
+     "Alignement avec le contenu": "İçerikle uyum"
 }

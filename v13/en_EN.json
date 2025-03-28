@@ -26,7 +26,7 @@
     "Action interdite": "Prohibited action",
     "Activation obligatoire selon les lois françaises sauf si vous utilisez votre propre système de consentement.": "Compulsory activation according to French laws unless you use your own consent system.",
     "Activer": "Enable",
-    "Activer la journalisation": "Activate journalization",
+    "Activer la journalisation": "Journalization",
     "Actualiser": "Update",
     "Adaptation": "Adaptation",
     "Administrateur": "Administrator",
@@ -334,6 +334,7 @@
     "Langue du site par défaut": "Default site language",
     "Langue par défaut": "Default language",
     "Langues": "Languages",
+    "Langue": "Language",
     "Langues disponibles": "Available languages",
     "Langues installées": "Installed languages",
     "Largeur": "Width",
@@ -669,7 +670,8 @@
     "Édition du profil %s": "Edit Profile %s",
     "Éléments": "Items",
     "Étendu sur la page": "Spread across the page",
-    "Étiquettes des pages spéciales": "Special pages labels",
+    "Étiquettes des pages spéciales": "Special pages tags",
+    "Étiquettes": "Tags",
     "Dimensions minimales": "Minimum dimensions",
     "Taille maximale du fichier": "Maximum file size",
     "5 Mo pour les images JPEG": "5 MB for JPEG images",
@@ -693,7 +695,7 @@
     "Il semblerait que votre messagerie fonctionne correctement !": "It seems that your messaging is working correctly!",
     "Message de test envoyé avec succès": "Test message sent successfully",
     "Message non envoyé": "Message not sent",
-    "Validation par clé ⚠️": "Key-based validation ⚠️",
+    "Code de sécurité": "Key-based validation",
     "La connexion est confirmée à l'aide d'une clé transmise par messagerie. Depuis le rôle sélectionné et les rôles supérieurs.": "The connection is confirmed using a key sent via messaging. From the selected group and the higher groups.",
     "Envoi du message d'authentification": "Sending authentication message",
     "Connexion réussie": "Login successful",
@@ -702,5 +704,6 @@
     "Clé de sécurité": "Security key",
     "Message de test": "Test message",
     "Clé d'authentification envoyée à votre adresse mail %s": "Authentication key sent to your email address %s",
-    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "The reset email could not be sent, please contact the administrator"
+    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "The reset email could not be sent, please contact the administrator",
+    "Alignement avec le contenu": "Alignment with the content"
 }

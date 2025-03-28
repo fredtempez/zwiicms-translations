@@ -334,6 +334,7 @@
     "Langue du site par défaut": "",
     "Langue par défaut": "",
     "Langues": "",
+    "Langue": "",
     "Langues disponibles": "",
     "Langues installées": "",
     "Largeur": "",
@@ -670,6 +671,7 @@
     "Éléments": "",
     "Étendu sur la page": "",
     "Étiquettes des pages spéciales": "",
+    "Étiquettes": "",
     "Dimensions minimales": "",
     "Taille maximale du fichier": "",
     "5 Mo pour les images JPEG": "",
@@ -693,7 +695,7 @@
     "Il semblerait que votre messagerie fonctionne correctement !": "",
     "Message de test envoyé avec succès": "",
     "Message non envoyé": "",
-    "Validation par clé ⚠️": "",
+    "Code de sécurité": "",
     "La connexion est confirmée à l'aide d'une clé transmise par messagerie. Depuis le rôle sélectionné et les rôles supérieurs.": "",
     "Envoi du message d'authentification": "",
     "Connexion réussie": "",
@@ -702,5 +704,6 @@
     "Clé de sécurité": "",
     "Message de test": "",
     "Clé d'authentification envoyée à votre adresse mail %s": "",
-    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": ""
+    "Le mail de réinitialisation ne peut pas être envoyé, contactez l'administrateur": "",
+    "Alignement avec le contenu": ""
 }
